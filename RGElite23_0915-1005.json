@@ -1,0 +1,6660 @@
+{
+ "game": [
+  {
+   "player": [
+    {
+     "location": "Haven",
+     "date": "10/05/20, 11:54 PM",
+     "duration": "26m 33s",
+     "team": "Team 1",
+     "player": "Kairo",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/raze_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/3.png",
+     "kda": "23 / 8 / 4",
+     "attackKills": "8",
+     "attackDeaths": "1",
+     "attackAssists": "0",
+     "attackKD": "8.0",
+     "attackDamage": "1105",
+     "defenseKills": "15",
+     "defenseDeaths": "7",
+     "defenseAssists": "4",
+     "defenseKD": "2.1",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "11",
+       "damage": "1941"
+      },
+      {
+       "type": "Sniper Rifles",
+       "name": "Operator",
+       "kills": "2",
+       "damage": "424"
+      },
+      {
+       "type": "SMGs",
+       "name": "Stinger",
+       "kills": "2",
+       "damage": "285"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "1",
+       "damage": "195"
+      },
+      {
+       "type": "Shotguns",
+       "name": "Judge",
+       "kills": "1",
+       "damage": "149"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "1",
+       "damage": "104"
+      }
+     ]
+    },
+    {
+     "location": "Haven",
+     "date": "10/05/20, 11:54 PM",
+     "duration": "26m 33s",
+     "team": "Team 1",
+     "player": "odinabuser",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/phoenix_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/5.png",
+     "kda": "22 / 7 / 2",
+     "attackKills": "3",
+     "attackDeaths": "2",
+     "attackAssists": "0",
+     "attackKD": "1.5",
+     "attackDamage": "135",
+     "defenseKills": "19",
+     "defenseDeaths": "5",
+     "defenseAssists": "2",
+     "defenseKD": "3.8",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "18",
+       "damage": "2991"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "2",
+       "damage": "234"
+      },
+      {
+       "type": "Heavy Weapons",
+       "name": "Odin",
+       "kills": "1",
+       "damage": "173"
+      },
+      {
+       "type": "SMGs",
+       "name": "Stinger",
+       "kills": "1",
+       "damage": "135"
+      }
+     ]
+    },
+    {
+     "location": "Haven",
+     "date": "10/05/20, 11:54 PM",
+     "duration": "26m 33s",
+     "team": "Team 1",
+     "player": "TEDDYBEARSHOTU",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/reyna_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/5.png",
+     "kda": "16 / 9 / 6",
+     "attackKills": "4",
+     "attackDeaths": "3",
+     "attackAssists": "2",
+     "attackKD": "1.3",
+     "attackDamage": "398",
+     "defenseKills": "12",
+     "defenseDeaths": "6",
+     "defenseAssists": "4",
+     "defenseKD": "2.0",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "7",
+       "damage": "1332"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "5",
+       "damage": "789"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "1",
+       "damage": "183"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "1",
+       "damage": "108"
+      },
+      {
+       "type": "Sniper Rifles",
+       "name": "Operator",
+       "kills": "2",
+       "damage": "0"
+      }
+     ]
+    },
+    {
+     "location": "Haven",
+     "date": "10/05/20, 11:54 PM",
+     "duration": "26m 33s",
+     "team": "Team 1",
+     "player": "LiquidSilicon",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/jett_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/4.png",
+     "kda": "4 / 12 / 6",
+     "attackKills": "1",
+     "attackDeaths": "3",
+     "attackAssists": "2",
+     "attackKD": "0.3",
+     "attackDamage": "343",
+     "defenseKills": "3",
+     "defenseDeaths": "9",
+     "defenseAssists": "4",
+     "defenseKD": "0.3",
+     "weapon": [
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "2",
+       "damage": "291"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "1",
+       "damage": "234"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "1",
+       "damage": "118"
+      }
+     ]
+    },
+    {
+     "location": "Haven",
+     "date": "10/05/20, 11:54 PM",
+     "duration": "26m 33s",
+     "team": "Team 1",
+     "player": "the bread man",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/cypher_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/4.png",
+     "kda": "4 / 9 / 1",
+     "attackKills": "0",
+     "attackDeaths": "3",
+     "attackAssists": "0",
+     "attackKD": "0.0",
+     "attackDamage": "0",
+     "defenseKills": "4",
+     "defenseDeaths": "6",
+     "defenseAssists": "1",
+     "defenseKD": "0.7",
+     "weapon": [
+      {
+       "type": "SMGs",
+       "name": "Stinger",
+       "kills": "2",
+       "damage": "276"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "1",
+       "damage": "191"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "1",
+       "damage": "166"
+      }
+     ]
+    },
+    {
+     "location": "Haven",
+     "date": "10/05/20, 11:54 PM",
+     "duration": "26m 33s",
+     "team": "Team 2",
+     "player": "DaCoolDavid1320",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/cypher_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/4.png",
+     "kda": "12 / 13 / 5",
+     "attackKills": "9",
+     "attackDeaths": "10",
+     "attackAssists": "5",
+     "attackKD": "0.9",
+     "attackDamage": "2507",
+     "defenseKills": "3",
+     "defenseDeaths": "3",
+     "defenseAssists": "0",
+     "defenseKD": "1.0",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "6",
+       "damage": "1342"
+      },
+      {
+       "type": "Heavy Weapons",
+       "name": "Ares",
+       "kills": "3",
+       "damage": "411"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "2",
+       "damage": "293"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "1",
+       "damage": "210"
+      }
+     ]
+    },
+    {
+     "location": "Haven",
+     "date": "10/05/20, 11:54 PM",
+     "duration": "26m 33s",
+     "team": "Team 2",
+     "player": "RGElite23",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/reyna_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/5.png",
+     "kda": "10 / 14 / 4",
+     "attackKills": "10",
+     "attackDeaths": "11",
+     "attackAssists": "4",
+     "attackKD": "0.9",
+     "attackDamage": "1847",
+     "defenseKills": "0",
+     "defenseDeaths": "3",
+     "defenseAssists": "0",
+     "defenseKD": "0.0",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "5",
+       "damage": "772"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "3",
+       "damage": "469"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "1",
+       "damage": "183"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "1",
+       "damage": "142"
+      }
+     ]
+    },
+    {
+     "location": "Haven",
+     "date": "10/05/20, 11:54 PM",
+     "duration": "26m 33s",
+     "team": "Team 2",
+     "player": "Riptide69420",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/omen_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/4.png",
+     "kda": "9 / 14 / 0",
+     "attackKills": "4",
+     "attackDeaths": "11",
+     "attackAssists": "0",
+     "attackKD": "0.4",
+     "attackDamage": "902",
+     "defenseKills": "5",
+     "defenseDeaths": "3",
+     "defenseAssists": "0",
+     "defenseKD": "1.7",
+     "weapon": [
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "4",
+       "damage": "509"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "4",
+       "damage": "337"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "1",
+       "damage": "156"
+      }
+     ]
+    },
+    {
+     "location": "Haven",
+     "date": "10/05/20, 11:54 PM",
+     "duration": "26m 33s",
+     "team": "Team 2",
+     "player": "ILOVECOFFEE",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/raze_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/5.png",
+     "kda": "9 / 15 / 1",
+     "attackKills": "7",
+     "attackDeaths": "11",
+     "attackAssists": "1",
+     "attackKD": "0.6",
+     "attackDamage": "1031",
+     "defenseKills": "2",
+     "defenseDeaths": "4",
+     "defenseAssists": "0",
+     "defenseKD": "0.5",
+     "weapon": [
+      {
+       "type": "Shotguns",
+       "name": "Judge",
+       "kills": "5",
+       "damage": "597"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "2",
+       "damage": "361"
+      }
+     ]
+    },
+    {
+     "location": "Haven",
+     "date": "10/05/20, 11:54 PM",
+     "duration": "26m 33s",
+     "team": "Team 2",
+     "player": "shanboss",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/jett_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/4.png",
+     "kda": "5 / 13 / 1",
+     "attackKills": "3",
+     "attackDeaths": "10",
+     "attackAssists": "0",
+     "attackKD": "0.3",
+     "attackDamage": "828",
+     "defenseKills": "2",
+     "defenseDeaths": "3",
+     "defenseAssists": "1",
+     "defenseKD": "0.7",
+     "weapon": [
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "3",
+       "damage": "460"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "1",
+       "damage": "200"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "1",
+       "damage": "101"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "player": [
+    {
+     "location": "Haven",
+     "date": "09/28/20, 9:18 PM",
+     "duration": "37m 09s",
+     "team": "Team 1",
+     "player": "Beto",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/reyna_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/7.png",
+     "kda": "22 / 18 / 8",
+     "attackKills": "12",
+     "attackDeaths": "7",
+     "attackAssists": "3",
+     "attackKD": "1.7",
+     "attackDamage": "1936",
+     "defenseKills": "10",
+     "defenseDeaths": "11",
+     "defenseAssists": "5",
+     "defenseKD": "0.9",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Guardian",
+       "kills": "4",
+       "damage": "885"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "5",
+       "damage": "880"
+      },
+      {
+       "type": "Shotguns",
+       "name": "Judge",
+       "kills": "6",
+       "damage": "647"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "2",
+       "damage": "437"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "2",
+       "damage": "347"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Bulldog",
+       "kills": "1",
+       "damage": "147"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "1",
+       "damage": "130"
+      },
+      {
+       "type": "Heavy Weapons",
+       "name": "Ares",
+       "kills": "1",
+       "damage": "102"
+      }
+     ]
+    },
+    {
+     "location": "Haven",
+     "date": "09/28/20, 9:18 PM",
+     "duration": "37m 09s",
+     "team": "Team 1",
+     "player": "butterball012",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/cypher_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/6.png",
+     "kda": "23 / 13 / 5",
+     "attackKills": "9",
+     "attackDeaths": "5",
+     "attackAssists": "3",
+     "attackKD": "1.8",
+     "attackDamage": "974",
+     "defenseKills": "14",
+     "defenseDeaths": "8",
+     "defenseAssists": "2",
+     "defenseKD": "1.8",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "8",
+       "damage": "1439"
+      },
+      {
+       "type": "SMGs",
+       "name": "Stinger",
+       "kills": "4",
+       "damage": "552"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Bulldog",
+       "kills": "2",
+       "damage": "389"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "4",
+       "damage": "367"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "2",
+       "damage": "312"
+      },
+      {
+       "type": "Heavy Weapons",
+       "name": "Ares",
+       "kills": "2",
+       "damage": "238"
+      },
+      {
+       "type": "Sniper Rifles",
+       "name": "Operator",
+       "kills": "1",
+       "damage": "0"
+      }
+     ]
+    },
+    {
+     "location": "Haven",
+     "date": "09/28/20, 9:18 PM",
+     "duration": "37m 09s",
+     "team": "Team 1",
+     "player": "Onfimarist",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/omen_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/3.png",
+     "kda": "17 / 12 / 0",
+     "attackKills": "3",
+     "attackDeaths": "7",
+     "attackAssists": "0",
+     "attackKD": "0.4",
+     "attackDamage": "276",
+     "defenseKills": "14",
+     "defenseDeaths": "5",
+     "defenseAssists": "0",
+     "defenseKD": "2.8",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "12",
+       "damage": "2280"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "4",
+       "damage": "561"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "1",
+       "damage": "122"
+      }
+     ]
+    },
+    {
+     "location": "Haven",
+     "date": "09/28/20, 9:18 PM",
+     "duration": "37m 09s",
+     "team": "Team 1",
+     "player": "Jael",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/jett_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/6.png",
+     "kda": "10 / 18 / 4",
+     "attackKills": "5",
+     "attackDeaths": "7",
+     "attackAssists": "2",
+     "attackKD": "0.7",
+     "attackDamage": "993",
+     "defenseKills": "5",
+     "defenseDeaths": "11",
+     "defenseAssists": "2",
+     "defenseKD": "0.5",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "4",
+       "damage": "699"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "4",
+       "damage": "520"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "1",
+       "damage": "103"
+      }
+     ]
+    },
+    {
+     "location": "Haven",
+     "date": "09/28/20, 9:18 PM",
+     "duration": "37m 09s",
+     "team": "Team 1",
+     "player": "eze612",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/sage_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/3.png",
+     "kda": "12 / 13 / 11",
+     "attackKills": "6",
+     "attackDeaths": "7",
+     "attackAssists": "3",
+     "attackKD": "0.9",
+     "attackDamage": "890",
+     "defenseKills": "6",
+     "defenseDeaths": "6",
+     "defenseAssists": "8",
+     "defenseKD": "1.0",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "4",
+       "damage": "622"
+      },
+      {
+       "type": "Sniper Rifles",
+       "name": "Operator",
+       "kills": "2",
+       "damage": "286"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "2",
+       "damage": "274"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "1",
+       "damage": "212"
+      },
+      {
+       "type": "SMGs",
+       "name": "Stinger",
+       "kills": "1",
+       "damage": "141"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "1",
+       "damage": "135"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "1",
+       "damage": "126"
+      }
+     ]
+    },
+    {
+     "location": "Haven",
+     "date": "09/28/20, 9:18 PM",
+     "duration": "37m 09s",
+     "team": "Team 2",
+     "player": "shehroz303",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/breach_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/5.png",
+     "kda": "31 / 15 / 1",
+     "attackKills": "15",
+     "attackDeaths": "8",
+     "attackAssists": "1",
+     "attackKD": "1.9",
+     "attackDamage": "2408",
+     "defenseKills": "16",
+     "defenseDeaths": "7",
+     "defenseAssists": "0",
+     "defenseKD": "2.3",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "24",
+       "damage": "4566"
+      },
+      {
+       "type": "Heavy Weapons",
+       "name": "Odin",
+       "kills": "2",
+       "damage": "328"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "2",
+       "damage": "322"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "2",
+       "damage": "210"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "1",
+       "damage": "130"
+      }
+     ]
+    },
+    {
+     "location": "Haven",
+     "date": "09/28/20, 9:18 PM",
+     "duration": "37m 09s",
+     "team": "Team 2",
+     "player": "MahKat2744",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/reyna_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/7.png",
+     "kda": "15 / 16 / 3",
+     "attackKills": "7",
+     "attackDeaths": "10",
+     "attackAssists": "3",
+     "attackKD": "0.7",
+     "attackDamage": "1168",
+     "defenseKills": "8",
+     "defenseDeaths": "6",
+     "defenseAssists": "0",
+     "defenseKD": "1.3",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "9",
+       "damage": "1594"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "3",
+       "damage": "497"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "2",
+       "damage": "285"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "1",
+       "damage": "210"
+      }
+     ]
+    },
+    {
+     "location": "Haven",
+     "date": "09/28/20, 9:18 PM",
+     "duration": "37m 09s",
+     "team": "Team 2",
+     "player": "Riptide69420",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/sova_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/4.png",
+     "kda": "9 / 16 / 8",
+     "attackKills": "6",
+     "attackDeaths": "10",
+     "attackAssists": "5",
+     "attackKD": "0.6",
+     "attackDamage": "1749",
+     "defenseKills": "3",
+     "defenseDeaths": "6",
+     "defenseAssists": "3",
+     "defenseKD": "0.5",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "4",
+       "damage": "811"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "3",
+       "damage": "481"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "2",
+       "damage": "352"
+      }
+     ]
+    },
+    {
+     "location": "Haven",
+     "date": "09/28/20, 9:18 PM",
+     "duration": "37m 09s",
+     "team": "Team 2",
+     "player": "RGElite23",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/brimstone_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/5.png",
+     "kda": "10 / 16 / 4",
+     "attackKills": "6",
+     "attackDeaths": "9",
+     "attackAssists": "3",
+     "attackKD": "0.7",
+     "attackDamage": "1611",
+     "defenseKills": "4",
+     "defenseDeaths": "7",
+     "defenseAssists": "1",
+     "defenseKD": "0.6",
+     "weapon": [
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "4",
+       "damage": "746"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "3",
+       "damage": "459"
+      },
+      {
+       "type": "Heavy Weapons",
+       "name": "Ares",
+       "kills": "1",
+       "damage": "211"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "1",
+       "damage": "156"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "1",
+       "damage": "135"
+      }
+     ]
+    },
+    {
+     "location": "Haven",
+     "date": "09/28/20, 9:18 PM",
+     "duration": "37m 09s",
+     "team": "Team 2",
+     "player": "StepBro90",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/omen_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/6.png",
+     "kda": "9 / 21 / 4",
+     "attackKills": "7",
+     "attackDeaths": "12",
+     "attackAssists": "2",
+     "attackKD": "0.6",
+     "attackDamage": "1639",
+     "defenseKills": "2",
+     "defenseDeaths": "9",
+     "defenseAssists": "2",
+     "defenseKD": "0.2",
+     "weapon": [
+      {
+       "type": "Sniper Rifles",
+       "name": "Operator",
+       "kills": "3",
+       "damage": "555"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "3",
+       "damage": "461"
+      },
+      {
+       "type": "Heavy Weapons",
+       "name": "Ares",
+       "kills": "1",
+       "damage": "237"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "1",
+       "damage": "160"
+      },
+      {
+       "type": "Shotguns",
+       "name": "Judge",
+       "kills": "1",
+       "damage": "154"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "player": [
+    {
+     "location": "Ascent",
+     "date": "09/24/20, 11:42 PM",
+     "duration": "50m 43s",
+     "team": "Team 1",
+     "player": "love",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/raze_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/3.png",
+     "kda": "25 / 22 / 2",
+     "attackKills": "8",
+     "attackDeaths": "10",
+     "attackAssists": "1",
+     "attackKD": "0.8",
+     "attackDamage": "1365",
+     "defenseKills": "17",
+     "defenseDeaths": "12",
+     "defenseAssists": "1",
+     "defenseKD": "1.4",
+     "weapon": [
+      {
+       "type": "Sniper Rifles",
+       "name": "Operator",
+       "kills": "6",
+       "damage": "1260"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "7",
+       "damage": "1145"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "3",
+       "damage": "643"
+      },
+      {
+       "type": "Heavy Weapons",
+       "name": "Odin",
+       "kills": "3",
+       "damage": "333"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "1",
+       "damage": "167"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/24/20, 11:42 PM",
+     "duration": "50m 43s",
+     "team": "Team 1",
+     "player": "MadisonPlayssTTV",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/phoenix_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/4.png",
+     "kda": "17 / 23 / 9",
+     "attackKills": "6",
+     "attackDeaths": "11",
+     "attackAssists": "4",
+     "attackKD": "0.5",
+     "attackDamage": "1635",
+     "defenseKills": "11",
+     "defenseDeaths": "12",
+     "defenseAssists": "5",
+     "defenseKD": "0.9",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "9",
+       "damage": "1552"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Guardian",
+       "kills": "2",
+       "damage": "351"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "2",
+       "damage": "331"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "2",
+       "damage": "269"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "2",
+       "damage": "246"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/24/20, 11:42 PM",
+     "duration": "50m 43s",
+     "team": "Team 1",
+     "player": "iDRXP",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/sova_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/6.png",
+     "kda": "20 / 20 / 6",
+     "attackKills": "9",
+     "attackDeaths": "9",
+     "attackAssists": "3",
+     "attackKD": "1.0",
+     "attackDamage": "1830",
+     "defenseKills": "11",
+     "defenseDeaths": "11",
+     "defenseAssists": "3",
+     "defenseKD": "1.0",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "7",
+       "damage": "1189"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "5",
+       "damage": "1155"
+      },
+      {
+       "type": "Heavy Weapons",
+       "name": "Odin",
+       "kills": "3",
+       "damage": "596"
+      },
+      {
+       "type": "Sniper Rifles",
+       "name": "Operator",
+       "kills": "1",
+       "damage": "270"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "1",
+       "damage": "112"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Sheriff",
+       "kills": "1",
+       "damage": "110"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "1",
+       "damage": "104"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/24/20, 11:42 PM",
+     "duration": "50m 43s",
+     "team": "Team 1",
+     "player": "ImM00X",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/reyna_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/4.png",
+     "kda": "14 / 23 / 4",
+     "attackKills": "3",
+     "attackDeaths": "11",
+     "attackAssists": "1",
+     "attackKD": "0.3",
+     "attackDamage": "869",
+     "defenseKills": "11",
+     "defenseDeaths": "12",
+     "defenseAssists": "3",
+     "defenseKD": "0.9",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "8",
+       "damage": "1247"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "3",
+       "damage": "612"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "2",
+       "damage": "246"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "1",
+       "damage": "156"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/24/20, 11:42 PM",
+     "duration": "50m 43s",
+     "team": "Team 1",
+     "player": "shine",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/jett_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/6.png",
+     "kda": "14 / 24 / 2",
+     "attackKills": "5",
+     "attackDeaths": "10",
+     "attackAssists": "0",
+     "attackKD": "0.5",
+     "attackDamage": "1010",
+     "defenseKills": "11",
+     "defenseDeaths": "14",
+     "defenseAssists": "2",
+     "defenseKD": "0.8",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "11",
+       "damage": "1849"
+      },
+      {
+       "type": "Heavy Weapons",
+       "name": "Odin",
+       "kills": "1",
+       "damage": "176"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "1",
+       "damage": "111"
+      },
+      {
+       "type": "Sniper Rifles",
+       "name": "Marshal",
+       "kills": "1",
+       "damage": "101"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/24/20, 11:42 PM",
+     "duration": "50m 43s",
+     "team": "Team 2",
+     "player": "shehroz303",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/omen_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/5.png",
+     "kda": "40 / 17 / 7",
+     "attackKills": "21",
+     "attackDeaths": "13",
+     "attackAssists": "1",
+     "attackKD": "1.6",
+     "attackDamage": "3590",
+     "defenseKills": "19",
+     "defenseDeaths": "4",
+     "defenseAssists": "6",
+     "defenseKD": "4.8",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "35",
+       "damage": "6050"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "3",
+       "damage": "382"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "1",
+       "damage": "200"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "1",
+       "damage": "150"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/24/20, 11:42 PM",
+     "duration": "50m 43s",
+     "team": "Team 2",
+     "player": "MahKat2744",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/raze_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/7.png",
+     "kda": "29 / 23 / 5",
+     "attackKills": "20",
+     "attackDeaths": "15",
+     "attackAssists": "2",
+     "attackKD": "1.3",
+     "attackDamage": "3824",
+     "defenseKills": "9",
+     "defenseDeaths": "8",
+     "defenseAssists": "3",
+     "defenseKD": "1.1",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "16",
+       "damage": "2791"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "3",
+       "damage": "521"
+      },
+      {
+       "type": "Sniper Rifles",
+       "name": "Operator",
+       "kills": "2",
+       "damage": "320"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "1",
+       "damage": "156"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "1",
+       "damage": "131"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/24/20, 11:42 PM",
+     "duration": "50m 43s",
+     "team": "Team 2",
+     "player": "RGElite23",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/reyna_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/5.png",
+     "kda": "18 / 20 / 8",
+     "attackKills": "13",
+     "attackDeaths": "14",
+     "attackAssists": "5",
+     "attackKD": "0.9",
+     "attackDamage": "2318",
+     "defenseKills": "5",
+     "defenseDeaths": "6",
+     "defenseAssists": "3",
+     "defenseKD": "0.8",
+     "weapon": [
+      {
+       "type": "Heavy Weapons",
+       "name": "Odin",
+       "kills": "8",
+       "damage": "1414"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "4",
+       "damage": "747"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "3",
+       "damage": "423"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "2",
+       "damage": "305"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "1",
+       "damage": "160"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/24/20, 11:42 PM",
+     "duration": "50m 43s",
+     "team": "Team 2",
+     "player": "MOnsterMOde123",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/sage_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/4.png",
+     "kda": "12 / 22 / 11",
+     "attackKills": "5",
+     "attackDeaths": "15",
+     "attackAssists": "8",
+     "attackKD": "0.3",
+     "attackDamage": "1519",
+     "defenseKills": "7",
+     "defenseDeaths": "7",
+     "defenseAssists": "3",
+     "defenseKD": "1.0",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "8",
+       "damage": "1620"
+      },
+      {
+       "type": "SMGs",
+       "name": "Stinger",
+       "kills": "3",
+       "damage": "411"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "1",
+       "damage": "155"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/24/20, 11:42 PM",
+     "duration": "50m 43s",
+     "team": "Team 2",
+     "player": "Riptide69420",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/sova_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/5.png",
+     "kda": "11 / 8 / 2",
+     "attackKills": "0",
+     "attackDeaths": "2",
+     "attackAssists": "1",
+     "attackKD": "0.0",
+     "attackDamage": "96",
+     "defenseKills": "11",
+     "defenseDeaths": "6",
+     "defenseAssists": "1",
+     "defenseKD": "1.8",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "7",
+       "damage": "1266"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "4",
+       "damage": "476"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "player": [
+    {
+     "location": "Ascent",
+     "date": "09/23/20, 11:44 PM",
+     "duration": "40m 39s",
+     "team": "Team 1",
+     "player": "ItStormy",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/raze_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/0.png",
+     "kda": "30 / 16 / 5",
+     "attackKills": "15",
+     "attackDeaths": "9",
+     "attackAssists": "2",
+     "attackKD": "1.7",
+     "attackDamage": "2292",
+     "defenseKills": "15",
+     "defenseDeaths": "7",
+     "defenseAssists": "3",
+     "defenseKD": "2.1",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "13",
+       "damage": "2580"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Bulldog",
+       "kills": "6",
+       "damage": "1189"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "3",
+       "damage": "375"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "2",
+       "damage": "366"
+      },
+      {
+       "type": "Shotguns",
+       "name": "Bucky",
+       "kills": "2",
+       "damage": "0"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/23/20, 11:44 PM",
+     "duration": "40m 39s",
+     "team": "Team 1",
+     "player": "RyuOP",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/omen_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/6.png",
+     "kda": "19 / 17 / 1",
+     "attackKills": "7",
+     "attackDeaths": "9",
+     "attackAssists": "1",
+     "attackKD": "0.8",
+     "attackDamage": "1372",
+     "defenseKills": "12",
+     "defenseDeaths": "8",
+     "defenseAssists": "0",
+     "defenseKD": "1.5",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "6",
+       "damage": "1188"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "4",
+       "damage": "604"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "3",
+       "damage": "450"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "2",
+       "damage": "370"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Sheriff",
+       "kills": "2",
+       "damage": "302"
+      },
+      {
+       "type": "Sniper Rifles",
+       "name": "Operator",
+       "kills": "2",
+       "damage": "300"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/23/20, 11:44 PM",
+     "duration": "40m 39s",
+     "team": "Team 1",
+     "player": "PoliPotato",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/brimstone_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/4.png",
+     "kda": "16 / 17 / 3",
+     "attackKills": "10",
+     "attackDeaths": "9",
+     "attackAssists": "3",
+     "attackKD": "1.1",
+     "attackDamage": "1684",
+     "defenseKills": "6",
+     "defenseDeaths": "8",
+     "defenseAssists": "0",
+     "defenseKD": "0.8",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "9",
+       "damage": "1541"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Guardian",
+       "kills": "4",
+       "damage": "823"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "1",
+       "damage": "152"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Shorty",
+       "kills": "1",
+       "damage": "0"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/23/20, 11:44 PM",
+     "duration": "40m 39s",
+     "team": "Team 1",
+     "player": "SpuddyHolly",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/viper_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/9.png",
+     "kda": "14 / 17 / 4",
+     "attackKills": "7",
+     "attackDeaths": "9",
+     "attackAssists": "4",
+     "attackKD": "0.8",
+     "attackDamage": "1379",
+     "defenseKills": "7",
+     "defenseDeaths": "8",
+     "defenseAssists": "0",
+     "defenseKD": "0.9",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "5",
+       "damage": "1147"
+      },
+      {
+       "type": "Sniper Rifles",
+       "name": "Operator",
+       "kills": "2",
+       "damage": "525"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "2",
+       "damage": "439"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "2",
+       "damage": "244"
+      },
+      {
+       "type": "SMGs",
+       "name": "Stinger",
+       "kills": "1",
+       "damage": "215"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Shorty",
+       "kills": "1",
+       "damage": "179"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "1",
+       "damage": "165"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/23/20, 11:44 PM",
+     "duration": "40m 39s",
+     "team": "Team 1",
+     "player": "LurkyMcShotgun",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/sova_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/5.png",
+     "kda": "10 / 18 / 3",
+     "attackKills": "6",
+     "attackDeaths": "8",
+     "attackAssists": "0",
+     "attackKD": "0.8",
+     "attackDamage": "1101",
+     "defenseKills": "4",
+     "defenseDeaths": "10",
+     "defenseAssists": "3",
+     "defenseKD": "0.4",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "7",
+       "damage": "1213"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "2",
+       "damage": "346"
+      },
+      {
+       "type": "Shotguns",
+       "name": "Judge",
+       "kills": "1",
+       "damage": "153"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/23/20, 11:44 PM",
+     "duration": "40m 39s",
+     "team": "Team 2",
+     "player": "im tired",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/reyna_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/10.png",
+     "kda": "23 / 19 / 3",
+     "attackKills": "14",
+     "attackDeaths": "9",
+     "attackAssists": "2",
+     "attackKD": "1.6",
+     "attackDamage": "2791",
+     "defenseKills": "9",
+     "defenseDeaths": "10",
+     "defenseAssists": "1",
+     "defenseKD": "0.9",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "14",
+       "damage": "2787"
+      },
+      {
+       "type": "Sniper Rifles",
+       "name": "Operator",
+       "kills": "4",
+       "damage": "709"
+      },
+      {
+       "type": "Sniper Rifles",
+       "name": "Marshal",
+       "kills": "2",
+       "damage": "404"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "2",
+       "damage": "350"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "1",
+       "damage": "104"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/23/20, 11:44 PM",
+     "duration": "40m 39s",
+     "team": "Team 2",
+     "player": "shehroz303",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/omen_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/5.png",
+     "kda": "23 / 20 / 3",
+     "attackKills": "12",
+     "attackDeaths": "11",
+     "attackAssists": "1",
+     "attackKD": "1.1",
+     "attackDamage": "2202",
+     "defenseKills": "11",
+     "defenseDeaths": "9",
+     "defenseAssists": "2",
+     "defenseKD": "1.2",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "15",
+       "damage": "2572"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "6",
+       "damage": "835"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "2",
+       "damage": "315"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/23/20, 11:44 PM",
+     "duration": "40m 39s",
+     "team": "Team 2",
+     "player": "MahKat2744",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/raze_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/6.png",
+     "kda": "18 / 19 / 8",
+     "attackKills": "6",
+     "attackDeaths": "9",
+     "attackAssists": "4",
+     "attackKD": "0.7",
+     "attackDamage": "1409",
+     "defenseKills": "12",
+     "defenseDeaths": "10",
+     "defenseAssists": "4",
+     "defenseKD": "1.2",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "10",
+       "damage": "1504"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Bulldog",
+       "kills": "1",
+       "damage": "150"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "1",
+       "damage": "100"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/23/20, 11:44 PM",
+     "duration": "40m 39s",
+     "team": "Team 2",
+     "player": "Riptide69420",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/sova_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/5.png",
+     "kda": "14 / 16 / 8",
+     "attackKills": "4",
+     "attackDeaths": "9",
+     "attackAssists": "3",
+     "attackKD": "0.4",
+     "attackDamage": "701",
+     "defenseKills": "11",
+     "defenseDeaths": "7",
+     "defenseAssists": "5",
+     "defenseKD": "1.6",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "6",
+       "damage": "1269"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "4",
+       "damage": "483"
+      },
+      {
+       "type": "Heavy Weapons",
+       "name": "Ares",
+       "kills": "1",
+       "damage": "155"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/23/20, 11:44 PM",
+     "duration": "40m 39s",
+     "team": "Team 2",
+     "player": "RGElite23",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/brimstone_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/5.png",
+     "kda": "7 / 16 / 1",
+     "attackKills": "5",
+     "attackDeaths": "6",
+     "attackAssists": "0",
+     "attackKD": "0.8",
+     "attackDamage": "635",
+     "defenseKills": "2",
+     "defenseDeaths": "10",
+     "defenseAssists": "1",
+     "defenseKD": "0.2",
+     "weapon": [
+      {
+       "type": "Heavy Weapons",
+       "name": "Odin",
+       "kills": "2",
+       "damage": "322"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "2",
+       "damage": "315"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "1",
+       "damage": "166"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "1",
+       "damage": "150"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "1",
+       "damage": "140"
+      }
+     ]
+    }
+   ]
+  },
+  {
+  },
+  {
+   "player": [
+    {
+     "location": "Split",
+     "date": "09/23/20, 4:10 PM",
+     "duration": "35m 19s",
+     "team": "Team 1",
+     "player": "MahKat2744",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/reyna_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/6.png",
+     "kda": "21 / 11 / 5",
+     "attackKills": "5",
+     "attackDeaths": "3",
+     "attackAssists": "2",
+     "attackKD": "1.7",
+     "attackDamage": "567",
+     "defenseKills": "16",
+     "defenseDeaths": "8",
+     "defenseAssists": "3",
+     "defenseKD": "2.0",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "16",
+       "damage": "3020"
+      },
+      {
+       "type": "Sniper Rifles",
+       "name": "Operator",
+       "kills": "3",
+       "damage": "420"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "2",
+       "damage": "168"
+      }
+     ]
+    },
+    {
+     "location": "Split",
+     "date": "09/23/20, 4:10 PM",
+     "duration": "35m 19s",
+     "team": "Team 1",
+     "player": "higethedog",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/sova_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/5.png",
+     "kda": "17 / 14 / 6",
+     "attackKills": "3",
+     "attackDeaths": "3",
+     "attackAssists": "1",
+     "attackKD": "1.0",
+     "attackDamage": "305",
+     "defenseKills": "14",
+     "defenseDeaths": "11",
+     "defenseAssists": "5",
+     "defenseKD": "1.3",
+     "weapon": [
+      {
+       "type": "Heavy Weapons",
+       "name": "Ares",
+       "kills": "15",
+       "damage": "2228"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "1",
+       "damage": "0"
+      }
+     ]
+    },
+    {
+     "location": "Split",
+     "date": "09/23/20, 4:10 PM",
+     "duration": "35m 19s",
+     "team": "Team 1",
+     "player": "shehroz303",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/raze_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/4.png",
+     "kda": "16 / 13 / 3",
+     "attackKills": "11",
+     "attackDeaths": "2",
+     "attackAssists": "0",
+     "attackKD": "5.5",
+     "attackDamage": "1458",
+     "defenseKills": "6",
+     "defenseDeaths": "11",
+     "defenseAssists": "3",
+     "defenseKD": "0.5",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "8",
+       "damage": "1666"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "2",
+       "damage": "301"
+      },
+      {
+       "type": "SMGs",
+       "name": "Stinger",
+       "kills": "1",
+       "damage": "204"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "1",
+       "damage": "189"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "1",
+       "damage": "143"
+      }
+     ]
+    },
+    {
+     "location": "Split",
+     "date": "09/23/20, 4:10 PM",
+     "duration": "35m 19s",
+     "team": "Team 1",
+     "player": "mrjsinthehouse",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/omen_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/4.png",
+     "kda": "12 / 16 / 3",
+     "attackKills": "3",
+     "attackDeaths": "4",
+     "attackAssists": "2",
+     "attackKD": "0.8",
+     "attackDamage": "689",
+     "defenseKills": "9",
+     "defenseDeaths": "12",
+     "defenseAssists": "1",
+     "defenseKD": "0.8",
+     "weapon": [
+      {
+       "type": "Shotguns",
+       "name": "Bucky",
+       "kills": "3",
+       "damage": "685"
+      },
+      {
+       "type": "SMGs",
+       "name": "Stinger",
+       "kills": "4",
+       "damage": "612"
+      },
+      {
+       "type": "Shotguns",
+       "name": "Judge",
+       "kills": "3",
+       "damage": "579"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "1",
+       "damage": "152"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Guardian",
+       "kills": "1",
+       "damage": "130"
+      }
+     ]
+    },
+    {
+     "location": "Split",
+     "date": "09/23/20, 4:10 PM",
+     "duration": "35m 19s",
+     "team": "Team 1",
+     "player": "RGElite23",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/sage_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/5.png",
+     "kda": "11 / 10 / 9",
+     "attackKills": "7",
+     "attackDeaths": "2",
+     "attackAssists": "3",
+     "attackKD": "3.5",
+     "attackDamage": "993",
+     "defenseKills": "4",
+     "defenseDeaths": "8",
+     "defenseAssists": "7",
+     "defenseKD": "0.5",
+     "weapon": [
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "4",
+       "damage": "657"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "2",
+       "damage": "438"
+      },
+      {
+       "type": "Heavy Weapons",
+       "name": "Odin",
+       "kills": "3",
+       "damage": "368"
+      },
+      {
+       "type": "Heavy Weapons",
+       "name": "Ares",
+       "kills": "2",
+       "damage": "304"
+      }
+     ]
+    },
+    {
+     "location": "Split",
+     "date": "09/23/20, 4:10 PM",
+     "duration": "35m 19s",
+     "team": "Team 2",
+     "player": "FrogFlops",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/raze_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/6.png",
+     "kda": "24 / 12 / 3",
+     "attackKills": "20",
+     "attackDeaths": "6",
+     "attackAssists": "3",
+     "attackKD": "3.3",
+     "attackDamage": "3361",
+     "defenseKills": "4",
+     "defenseDeaths": "6",
+     "defenseAssists": "0",
+     "defenseKD": "0.7",
+     "weapon": [
+      {
+       "type": "Sniper Rifles",
+       "name": "Operator",
+       "kills": "12",
+       "damage": "2191"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "7",
+       "damage": "1346"
+      },
+      {
+       "type": "Heavy Weapons",
+       "name": "Odin",
+       "kills": "1",
+       "damage": "262"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "1",
+       "damage": "170"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "1",
+       "damage": "163"
+      }
+     ]
+    },
+    {
+     "location": "Split",
+     "date": "09/23/20, 4:10 PM",
+     "duration": "35m 19s",
+     "team": "Team 2",
+     "player": "Eqoh",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/jett_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/6.png",
+     "kda": "13 / 15 / 2",
+     "attackKills": "10",
+     "attackDeaths": "9",
+     "attackAssists": "2",
+     "attackKD": "1.1",
+     "attackDamage": "1693",
+     "defenseKills": "3",
+     "defenseDeaths": "6",
+     "defenseAssists": "0",
+     "defenseKD": "0.5",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "5",
+       "damage": "979"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "5",
+       "damage": "788"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Sheriff",
+       "kills": "3",
+       "damage": "461"
+      }
+     ]
+    },
+    {
+     "location": "Split",
+     "date": "09/23/20, 4:10 PM",
+     "duration": "35m 19s",
+     "team": "Team 2",
+     "player": "DAT",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/reyna_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/4.png",
+     "kda": "9 / 17 / 6",
+     "attackKills": "7",
+     "attackDeaths": "12",
+     "attackAssists": "6",
+     "attackKD": "0.6",
+     "attackDamage": "1714",
+     "defenseKills": "2",
+     "defenseDeaths": "5",
+     "defenseAssists": "0",
+     "defenseKD": "0.4",
+     "weapon": [
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "4",
+       "damage": "673"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "2",
+       "damage": "341"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "2",
+       "damage": "225"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "1",
+       "damage": "160"
+      }
+     ]
+    },
+    {
+     "location": "Split",
+     "date": "09/23/20, 4:10 PM",
+     "duration": "35m 19s",
+     "team": "Team 2",
+     "player": "derpface37",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/sova_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/4.png",
+     "kda": "9 / 17 / 5",
+     "attackKills": "6",
+     "attackDeaths": "11",
+     "attackAssists": "3",
+     "attackKD": "0.5",
+     "attackDamage": "1287",
+     "defenseKills": "3",
+     "defenseDeaths": "6",
+     "defenseAssists": "2",
+     "defenseKD": "0.5",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "3",
+       "damage": "604"
+      },
+      {
+       "type": "Heavy Weapons",
+       "name": "Ares",
+       "kills": "2",
+       "damage": "326"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "2",
+       "damage": "325"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Sheriff",
+       "kills": "1",
+       "damage": "110"
+      }
+     ]
+    },
+    {
+     "location": "Split",
+     "date": "09/23/20, 4:10 PM",
+     "duration": "35m 19s",
+     "team": "Team 2",
+     "player": "LuhuMaco",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/sage_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/3.png",
+     "kda": "8 / 16 / 3",
+     "attackKills": "6",
+     "attackDeaths": "10",
+     "attackAssists": "1",
+     "attackKD": "0.6",
+     "attackDamage": "1240",
+     "defenseKills": "2",
+     "defenseDeaths": "6",
+     "defenseAssists": "2",
+     "defenseKD": "0.3",
+     "weapon": [
+      {
+       "type": "Heavy Weapons",
+       "name": "Ares",
+       "kills": "2",
+       "damage": "1369"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "1",
+       "damage": "273"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "2",
+       "damage": "260"
+      },
+      {
+       "type": "SMGs",
+       "name": "Stinger",
+       "kills": "1",
+       "damage": "157"
+      },
+      {
+       "type": "Heavy Weapons",
+       "name": "Odin",
+       "kills": "1",
+       "damage": "152"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "1",
+       "damage": "104"
+      }
+     ]
+    }
+   ]
+  },
+  {
+  },
+  {
+   "player": [
+    {
+     "location": "Bind",
+     "date": "09/22/20, 5:17 PM",
+     "duration": "30m 57s",
+     "team": "Team 1",
+     "player": "Smurf Awρ",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/reyna_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/5.png",
+     "kda": "22 / 9 / 3",
+     "attackKills": "17",
+     "attackDeaths": "5",
+     "attackAssists": "1",
+     "attackKD": "3.4",
+     "attackDamage": "2871",
+     "defenseKills": "5",
+     "defenseDeaths": "4",
+     "defenseAssists": "2",
+     "defenseKD": "1.3",
+     "weapon": [
+      {
+       "type": "Sniper Rifles",
+       "name": "Operator",
+       "kills": "11",
+       "damage": "2177"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "5",
+       "damage": "710"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "3",
+       "damage": "440"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "1",
+       "damage": "128"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "1",
+       "damage": "105"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "1",
+       "damage": "104"
+      }
+     ]
+    },
+    {
+     "location": "Bind",
+     "date": "09/22/20, 5:17 PM",
+     "duration": "30m 57s",
+     "team": "Team 1",
+     "player": "kitsuni",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/raze_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/3.png",
+     "kda": "14 / 13 / 3",
+     "attackKills": "9",
+     "attackDeaths": "8",
+     "attackAssists": "2",
+     "attackKD": "1.1",
+     "attackDamage": "1589",
+     "defenseKills": "5",
+     "defenseDeaths": "5",
+     "defenseAssists": "1",
+     "defenseKD": "1.0",
+     "weapon": [
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "7",
+       "damage": "1166"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "5",
+       "damage": "609"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "1",
+       "damage": "135"
+      }
+     ]
+    },
+    {
+     "location": "Bind",
+     "date": "09/22/20, 5:17 PM",
+     "duration": "30m 57s",
+     "team": "Team 1",
+     "player": "Brayden144hz",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/cypher_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/5.png",
+     "kda": "14 / 9 / 5",
+     "attackKills": "8",
+     "attackDeaths": "5",
+     "attackAssists": "4",
+     "attackKD": "1.6",
+     "attackDamage": "1244",
+     "defenseKills": "6",
+     "defenseDeaths": "4",
+     "defenseAssists": "1",
+     "defenseKD": "1.5",
+     "weapon": [
+      {
+       "type": "Sniper Rifles",
+       "name": "Operator",
+       "kills": "8",
+       "damage": "800"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "3",
+       "damage": "385"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "2",
+       "damage": "182"
+      },
+      {
+       "type": "Sniper Rifles",
+       "name": "Marshal",
+       "kills": "1",
+       "damage": "158"
+      }
+     ]
+    },
+    {
+     "location": "Bind",
+     "date": "09/22/20, 5:17 PM",
+     "duration": "30m 57s",
+     "team": "Team 1",
+     "player": "ŁÖVË",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/sova_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/3.png",
+     "kda": "14 / 9 / 4",
+     "attackKills": "10",
+     "attackDeaths": "6",
+     "attackAssists": "3",
+     "attackKD": "1.7",
+     "attackDamage": "1432",
+     "defenseKills": "4",
+     "defenseDeaths": "3",
+     "defenseAssists": "1",
+     "defenseKD": "1.3",
+     "weapon": [
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "11",
+       "damage": "1721"
+      },
+      {
+       "type": "Sniper Rifles",
+       "name": "Operator",
+       "kills": "1",
+       "damage": "231"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Sheriff",
+       "kills": "1",
+       "damage": "131"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "1",
+       "damage": "101"
+      }
+     ]
+    },
+    {
+     "location": "Bind",
+     "date": "09/22/20, 5:17 PM",
+     "duration": "30m 57s",
+     "team": "Team 1",
+     "player": "Clack",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/phoenix_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/4.png",
+     "kda": "9 / 12 / 5",
+     "attackKills": "6",
+     "attackDeaths": "9",
+     "attackAssists": "4",
+     "attackKD": "0.7",
+     "attackDamage": "1505",
+     "defenseKills": "3",
+     "defenseDeaths": "3",
+     "defenseAssists": "1",
+     "defenseKD": "1.0",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "6",
+       "damage": "1006"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Frenzy",
+       "kills": "1",
+       "damage": "152"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "1",
+       "damage": "145"
+      }
+     ]
+    },
+    {
+     "location": "Bind",
+     "date": "09/22/20, 5:17 PM",
+     "duration": "30m 57s",
+     "team": "Team 2",
+     "player": "shehroz303",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/reyna_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/4.png",
+     "kda": "16 / 16 / 2",
+     "attackKills": "5",
+     "attackDeaths": "5",
+     "attackAssists": "0",
+     "attackKD": "1.0",
+     "attackDamage": "520",
+     "defenseKills": "12",
+     "defenseDeaths": "11",
+     "defenseAssists": "2",
+     "defenseKD": "1.1",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "11",
+       "damage": "1666"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "3",
+       "damage": "461"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "2",
+       "damage": "332"
+      }
+     ]
+    },
+    {
+     "location": "Bind",
+     "date": "09/22/20, 5:17 PM",
+     "duration": "30m 57s",
+     "team": "Team 2",
+     "player": "Sundiax",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/omen_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/3.png",
+     "kda": "12 / 16 / 3",
+     "attackKills": "6",
+     "attackDeaths": "5",
+     "attackAssists": "1",
+     "attackKD": "1.2",
+     "attackDamage": "842",
+     "defenseKills": "6",
+     "defenseDeaths": "11",
+     "defenseAssists": "2",
+     "defenseKD": "0.5",
+     "weapon": [
+      {
+       "type": "Sniper Rifles",
+       "name": "Operator",
+       "kills": "3",
+       "damage": "618"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "3",
+       "damage": "587"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "2",
+       "damage": "255"
+      },
+      {
+       "type": "Sniper Rifles",
+       "name": "Marshal",
+       "kills": "1",
+       "damage": "202"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Bulldog",
+       "kills": "1",
+       "damage": "172"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "2",
+       "damage": "160"
+      }
+     ]
+    },
+    {
+     "location": "Bind",
+     "date": "09/22/20, 5:17 PM",
+     "duration": "30m 57s",
+     "team": "Team 2",
+     "player": "RGElite23",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/brimstone_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/5.png",
+     "kda": "10 / 12 / 2",
+     "attackKills": "4",
+     "attackDeaths": "3",
+     "attackAssists": "0",
+     "attackKD": "1.3",
+     "attackDamage": "589",
+     "defenseKills": "6",
+     "defenseDeaths": "9",
+     "defenseAssists": "2",
+     "defenseKD": "0.7",
+     "weapon": [
+      {
+       "type": "Heavy Weapons",
+       "name": "Odin",
+       "kills": "6",
+       "damage": "1104"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "3",
+       "damage": "394"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "1",
+       "damage": "120"
+      }
+     ]
+    },
+    {
+     "location": "Bind",
+     "date": "09/22/20, 5:17 PM",
+     "duration": "30m 57s",
+     "team": "Team 2",
+     "player": "abtc378",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/sova_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/5.png",
+     "kda": "8 / 16 / 4",
+     "attackKills": "2",
+     "attackDeaths": "5",
+     "attackAssists": "1",
+     "attackKD": "0.4",
+     "attackDamage": "501",
+     "defenseKills": "6",
+     "defenseDeaths": "11",
+     "defenseAssists": "3",
+     "defenseKD": "0.5",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "5",
+       "damage": "967"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Guardian",
+       "kills": "1",
+       "damage": "239"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "1",
+       "damage": "156"
+      },
+      {
+       "type": "Sniper Rifles",
+       "name": "Operator",
+       "kills": "1",
+       "damage": "150"
+      }
+     ]
+    },
+    {
+     "location": "Bind",
+     "date": "09/22/20, 5:17 PM",
+     "duration": "30m 57s",
+     "team": "Team 2",
+     "player": "Eins Null",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/sage_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/3.png",
+     "kda": "6 / 14 / 2",
+     "attackKills": "2",
+     "attackDeaths": "5",
+     "attackAssists": "1",
+     "attackKD": "0.4",
+     "attackDamage": "316",
+     "defenseKills": "4",
+     "defenseDeaths": "9",
+     "defenseAssists": "1",
+     "defenseKD": "0.4",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "3",
+       "damage": "614"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Guardian",
+       "kills": "1",
+       "damage": "240"
+      },
+      {
+       "type": "Shotguns",
+       "name": "Judge",
+       "kills": "1",
+       "damage": "160"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "1",
+       "damage": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+  },
+  {
+   "player": [
+    {
+     "location": "Bind",
+     "date": "09/21/20, 10:30 PM",
+     "duration": "47m 17s",
+     "team": "Team 1",
+     "player": "Purple",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/jett_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/6.png",
+     "kda": "24 / 19 / 3",
+     "attackKills": "11",
+     "attackDeaths": "9",
+     "attackAssists": "2",
+     "attackKD": "1.2",
+     "attackDamage": "2042",
+     "defenseKills": "13",
+     "defenseDeaths": "10",
+     "defenseAssists": "1",
+     "defenseKD": "1.3",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "14",
+       "damage": "2206"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "4",
+       "damage": "590"
+      },
+      {
+       "type": "Shotguns",
+       "name": "Judge",
+       "kills": "2",
+       "damage": "308"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "2",
+       "damage": "262"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "1",
+       "damage": "255"
+      }
+     ]
+    },
+    {
+     "location": "Bind",
+     "date": "09/21/20, 10:30 PM",
+     "duration": "47m 17s",
+     "team": "Team 1",
+     "player": "peppertaint",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/phoenix_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/9.png",
+     "kda": "22 / 20 / 2",
+     "attackKills": "13",
+     "attackDeaths": "10",
+     "attackAssists": "1",
+     "attackKD": "1.3",
+     "attackDamage": "3087",
+     "defenseKills": "10",
+     "defenseDeaths": "10",
+     "defenseAssists": "1",
+     "defenseKD": "1.0",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "13",
+       "damage": "2519"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Bulldog",
+       "kills": "4",
+       "damage": "787"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "3",
+       "damage": "495"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "1",
+       "damage": "205"
+      },
+      {
+       "type": "Heavy Weapons",
+       "name": "Ares",
+       "kills": "1",
+       "damage": "150"
+      }
+     ]
+    },
+    {
+     "location": "Bind",
+     "date": "09/21/20, 10:30 PM",
+     "duration": "47m 17s",
+     "team": "Team 1",
+     "player": "RGElite23",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/reyna_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/5.png",
+     "kda": "20 / 16 / 3",
+     "attackKills": "12",
+     "attackDeaths": "7",
+     "attackAssists": "0",
+     "attackKD": "1.7",
+     "attackDamage": "1634",
+     "defenseKills": "8",
+     "defenseDeaths": "9",
+     "defenseAssists": "3",
+     "defenseKD": "0.9",
+     "weapon": [
+      {
+       "type": "Heavy Weapons",
+       "name": "Odin",
+       "kills": "13",
+       "damage": "2157"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "3",
+       "damage": "653"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "2",
+       "damage": "250"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "2",
+       "damage": "220"
+      }
+     ]
+    },
+    {
+     "location": "Bind",
+     "date": "09/21/20, 10:30 PM",
+     "duration": "47m 17s",
+     "team": "Team 1",
+     "player": "D1egoR26",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/raze_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/6.png",
+     "kda": "12 / 17 / 6",
+     "attackKills": "3",
+     "attackDeaths": "9",
+     "attackAssists": "4",
+     "attackKD": "0.3",
+     "attackDamage": "1232",
+     "defenseKills": "9",
+     "defenseDeaths": "8",
+     "defenseAssists": "2",
+     "defenseKD": "1.1",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "6",
+       "damage": "1315"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "2",
+       "damage": "338"
+      },
+      {
+       "type": "Sniper Rifles",
+       "name": "Operator",
+       "kills": "1",
+       "damage": "150"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "1",
+       "damage": "118"
+      }
+     ]
+    },
+    {
+     "location": "Bind",
+     "date": "09/21/20, 10:30 PM",
+     "duration": "47m 17s",
+     "team": "Team 1",
+     "player": "KaiJ",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/omen_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/6.png",
+     "kda": "12 / 19 / 6",
+     "attackKills": "9",
+     "attackDeaths": "11",
+     "attackAssists": "4",
+     "attackKD": "0.8",
+     "attackDamage": "1596",
+     "defenseKills": "3",
+     "defenseDeaths": "8",
+     "defenseAssists": "2",
+     "defenseKD": "0.4",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "5",
+       "damage": "749"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "4",
+       "damage": "732"
+      },
+      {
+       "type": "Sniper Rifles",
+       "name": "Operator",
+       "kills": "1",
+       "damage": "341"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "2",
+       "damage": "248"
+      }
+     ]
+    },
+    {
+     "location": "Bind",
+     "date": "09/21/20, 10:30 PM",
+     "duration": "47m 17s",
+     "team": "Team 2",
+     "player": "Japanese Hooker",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/sage_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/9.png",
+     "kda": "28 / 15 / 6",
+     "attackKills": "14",
+     "attackDeaths": "7",
+     "attackAssists": "2",
+     "attackKD": "2.0",
+     "attackDamage": "3019",
+     "defenseKills": "15",
+     "defenseDeaths": "8",
+     "defenseAssists": "4",
+     "defenseKD": "1.9",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "23",
+       "damage": "4083"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "4",
+       "damage": "521"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "1",
+       "damage": "260"
+      }
+     ]
+    },
+    {
+     "location": "Bind",
+     "date": "09/21/20, 10:30 PM",
+     "duration": "47m 17s",
+     "team": "Team 2",
+     "player": "DriedFruitXO",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/brimstone_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/8.png",
+     "kda": "20 / 17 / 5",
+     "attackKills": "13",
+     "attackDeaths": "8",
+     "attackAssists": "4",
+     "attackKD": "1.6",
+     "attackDamage": "2416",
+     "defenseKills": "7",
+     "defenseDeaths": "9",
+     "defenseAssists": "1",
+     "defenseKD": "0.8",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "6",
+       "damage": "1266"
+      },
+      {
+       "type": "SMGs",
+       "name": "Stinger",
+       "kills": "7",
+       "damage": "1051"
+      },
+      {
+       "type": "Heavy Weapons",
+       "name": "Odin",
+       "kills": "4",
+       "damage": "606"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Shorty",
+       "kills": "2",
+       "damage": "243"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "1",
+       "damage": "217"
+      }
+     ]
+    },
+    {
+     "location": "Bind",
+     "date": "09/21/20, 10:30 PM",
+     "duration": "47m 17s",
+     "team": "Team 2",
+     "player": "AGENTxDark",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/reyna_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/6.png",
+     "kda": "17 / 22 / 6",
+     "attackKills": "9",
+     "attackDeaths": "10",
+     "attackAssists": "2",
+     "attackKD": "0.9",
+     "attackDamage": "1761",
+     "defenseKills": "8",
+     "defenseDeaths": "12",
+     "defenseAssists": "4",
+     "defenseKD": "0.7",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "11",
+       "damage": "1888"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "3",
+       "damage": "495"
+      },
+      {
+       "type": "Sniper Rifles",
+       "name": "Operator",
+       "kills": "2",
+       "damage": "317"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "1",
+       "damage": "305"
+      }
+     ]
+    },
+    {
+     "location": "Bind",
+     "date": "09/21/20, 10:30 PM",
+     "duration": "47m 17s",
+     "team": "Team 2",
+     "player": "Aimmrainxl",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/omen_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/5.png",
+     "kda": "13 / 21 / 5",
+     "attackKills": "4",
+     "attackDeaths": "11",
+     "attackAssists": "2",
+     "attackKD": "0.4",
+     "attackDamage": "868",
+     "defenseKills": "9",
+     "defenseDeaths": "10",
+     "defenseAssists": "3",
+     "defenseKD": "0.9",
+     "weapon": [
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "4",
+       "damage": "690"
+      },
+      {
+       "type": "Heavy Weapons",
+       "name": "Odin",
+       "kills": "4",
+       "damage": "488"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "2",
+       "damage": "346"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "1",
+       "damage": "195"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Bulldog",
+       "kills": "1",
+       "damage": "155"
+      },
+      {
+       "type": "Sniper Rifles",
+       "name": "Operator",
+       "kills": "1",
+       "damage": "150"
+      }
+     ]
+    },
+    {
+     "location": "Bind",
+     "date": "09/21/20, 10:30 PM",
+     "duration": "47m 17s",
+     "team": "Team 2",
+     "player": "WARNINGUWONTWIN",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/phoenix_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/5.png",
+     "kda": "12 / 16 / 6",
+     "attackKills": "6",
+     "attackDeaths": "8",
+     "attackAssists": "4",
+     "attackKD": "0.8",
+     "attackDamage": "1425",
+     "defenseKills": "6",
+     "defenseDeaths": "8",
+     "defenseAssists": "2",
+     "defenseKD": "0.8",
+     "weapon": [
+      {
+       "type": "Sniper Rifles",
+       "name": "Operator",
+       "kills": "4",
+       "damage": "880"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "4",
+       "damage": "612"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "2",
+       "damage": "373"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Sheriff",
+       "kills": "1",
+       "damage": "185"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "1",
+       "damage": "105"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "player": [
+    {
+     "location": "Haven",
+     "date": "09/21/20, 4:47 PM",
+     "duration": "27m 57s",
+     "team": "Team 1",
+     "player": "Theory",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/reyna_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/9.png",
+     "kda": "16 / 13 / 6",
+     "attackKills": "14",
+     "attackDeaths": "10",
+     "attackAssists": "5",
+     "attackKD": "1.4",
+     "attackDamage": "2577",
+     "defenseKills": "2",
+     "defenseDeaths": "3",
+     "defenseAssists": "1",
+     "defenseKD": "0.7",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "6",
+       "damage": "1118"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "5",
+       "damage": "671"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Sheriff",
+       "kills": "3",
+       "damage": "477"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "1",
+       "damage": "168"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "1",
+       "damage": "0"
+      }
+     ]
+    },
+    {
+     "location": "Haven",
+     "date": "09/21/20, 4:47 PM",
+     "duration": "27m 57s",
+     "team": "Team 1",
+     "player": "Johnny Sins",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/cypher_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/5.png",
+     "kda": "17 / 6 / 4",
+     "attackKills": "15",
+     "attackDeaths": "4",
+     "attackAssists": "2",
+     "attackKD": "3.8",
+     "attackDamage": "2889",
+     "defenseKills": "2",
+     "defenseDeaths": "2",
+     "defenseAssists": "2",
+     "defenseKD": "1.0",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "13",
+       "damage": "2850"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "3",
+       "damage": "368"
+      }
+     ]
+    },
+    {
+     "location": "Haven",
+     "date": "09/21/20, 4:47 PM",
+     "duration": "27m 57s",
+     "team": "Team 1",
+     "player": "fishynibba",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/sova_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/7.png",
+     "kda": "11 / 15 / 3",
+     "attackKills": "6",
+     "attackDeaths": "12",
+     "attackAssists": "3",
+     "attackKD": "0.5",
+     "attackDamage": "1277",
+     "defenseKills": "5",
+     "defenseDeaths": "3",
+     "defenseAssists": "0",
+     "defenseKD": "1.7",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "3",
+       "damage": "596"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "4",
+       "damage": "559"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "2",
+       "damage": "286"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Sheriff",
+       "kills": "2",
+       "damage": "165"
+      }
+     ]
+    },
+    {
+     "location": "Haven",
+     "date": "09/21/20, 4:47 PM",
+     "duration": "27m 57s",
+     "team": "Team 1",
+     "player": "Divine",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/omen_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/8.png",
+     "kda": "12 / 11 / 4",
+     "attackKills": "11",
+     "attackDeaths": "8",
+     "attackAssists": "2",
+     "attackKD": "1.4",
+     "attackDamage": "1576",
+     "defenseKills": "1",
+     "defenseDeaths": "3",
+     "defenseAssists": "2",
+     "defenseKD": "0.3",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "4",
+       "damage": "835"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "4",
+       "damage": "503"
+      },
+      {
+       "type": "Shotguns",
+       "name": "Judge",
+       "kills": "3",
+       "damage": "377"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "1",
+       "damage": "162"
+      }
+     ]
+    },
+    {
+     "location": "Haven",
+     "date": "09/21/20, 4:47 PM",
+     "duration": "27m 57s",
+     "team": "Team 1",
+     "player": "hugesnake",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/viper_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/6.png",
+     "kda": "10 / 8 / 3",
+     "attackKills": "7",
+     "attackDeaths": "7",
+     "attackAssists": "3",
+     "attackKD": "1.0",
+     "attackDamage": "1400",
+     "defenseKills": "3",
+     "defenseDeaths": "1",
+     "defenseAssists": "0",
+     "defenseKD": "3.0",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "3",
+       "damage": "578"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "4",
+       "damage": "348"
+      },
+      {
+       "type": "Sniper Rifles",
+       "name": "Operator",
+       "kills": "1",
+       "damage": "290"
+      },
+      {
+       "type": "SMGs",
+       "name": "Stinger",
+       "kills": "1",
+       "damage": "172"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "1",
+       "damage": "163"
+      }
+     ]
+    },
+    {
+     "location": "Haven",
+     "date": "09/21/20, 4:47 PM",
+     "duration": "27m 57s",
+     "team": "Team 2",
+     "player": "im tired",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/reyna_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/10.png",
+     "kda": "19 / 14 / 3",
+     "attackKills": "4",
+     "attackDeaths": "3",
+     "attackAssists": "1",
+     "attackKD": "1.3",
+     "attackDamage": "486",
+     "defenseKills": "15",
+     "defenseDeaths": "11",
+     "defenseAssists": "2",
+     "defenseKD": "1.4",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "15",
+       "damage": "2722"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "2",
+       "damage": "270"
+      },
+      {
+       "type": "Sniper Rifles",
+       "name": "Marshal",
+       "kills": "1",
+       "damage": "202"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "1",
+       "damage": "156"
+      }
+     ]
+    },
+    {
+     "location": "Haven",
+     "date": "09/21/20, 4:47 PM",
+     "duration": "27m 57s",
+     "team": "Team 2",
+     "player": "RGElite23",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/brimstone_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/6.png",
+     "kda": "12 / 15 / 1",
+     "attackKills": "7",
+     "attackDeaths": "4",
+     "attackAssists": "0",
+     "attackKD": "1.8",
+     "attackDamage": "492",
+     "defenseKills": "5",
+     "defenseDeaths": "11",
+     "defenseAssists": "1",
+     "defenseKD": "0.5",
+     "weapon": [
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "4",
+       "damage": "594"
+      },
+      {
+       "type": "Heavy Weapons",
+       "name": "Odin",
+       "kills": "4",
+       "damage": "275"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "1",
+       "damage": "238"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "1",
+       "damage": "160"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "1",
+       "damage": "128"
+      }
+     ]
+    },
+    {
+     "location": "Haven",
+     "date": "09/21/20, 4:47 PM",
+     "duration": "27m 57s",
+     "team": "Team 2",
+     "player": "shehroz303",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/omen_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/5.png",
+     "kda": "7 / 13 / 3",
+     "attackKills": "0",
+     "attackDeaths": "2",
+     "attackAssists": "1",
+     "attackKD": "0.0",
+     "attackDamage": "0",
+     "defenseKills": "7",
+     "defenseDeaths": "11",
+     "defenseAssists": "2",
+     "defenseKD": "0.6",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "4",
+       "damage": "920"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "2",
+       "damage": "312"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "1",
+       "damage": "191"
+      }
+     ]
+    },
+    {
+     "location": "Haven",
+     "date": "09/21/20, 4:47 PM",
+     "duration": "27m 57s",
+     "team": "Team 2",
+     "player": "MahKat2744",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/raze_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/6.png",
+     "kda": "8 / 15 / 2",
+     "attackKills": "1",
+     "attackDeaths": "4",
+     "attackAssists": "1",
+     "attackKD": "0.3",
+     "attackDamage": "352",
+     "defenseKills": "7",
+     "defenseDeaths": "11",
+     "defenseAssists": "1",
+     "defenseKD": "0.6",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "3",
+       "damage": "713"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "1",
+       "damage": "252"
+      },
+      {
+       "type": "Heavy Weapons",
+       "name": "Odin",
+       "kills": "1",
+       "damage": "178"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "1",
+       "damage": "104"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "1",
+       "damage": "104"
+      }
+     ]
+    },
+    {
+     "location": "Haven",
+     "date": "09/21/20, 4:47 PM",
+     "duration": "27m 57s",
+     "team": "Team 2",
+     "player": "wererox",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/cypher_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/9.png",
+     "kda": "7 / 9 / 2",
+     "attackKills": "0",
+     "attackDeaths": "0",
+     "attackAssists": "0",
+     "attackKD": "0.0",
+     "attackDamage": "0",
+     "defenseKills": "7",
+     "defenseDeaths": "9",
+     "defenseAssists": "2",
+     "defenseKD": "0.8",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "4",
+       "damage": "776"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "2",
+       "damage": "400"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "1",
+       "damage": "149"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "player": [
+    {
+     "location": "Haven",
+     "date": "09/21/20, 4:14 PM",
+     "duration": "27m 01s",
+     "team": "Team 1",
+     "player": "shehroz303",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/reyna_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/4.png",
+     "kda": "20 / 10 / 6",
+     "attackKills": "11",
+     "attackDeaths": "7",
+     "attackAssists": "5",
+     "attackKD": "1.6",
+     "attackDamage": "2212",
+     "defenseKills": "9",
+     "defenseDeaths": "3",
+     "defenseAssists": "1",
+     "defenseKD": "3.0",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "18",
+       "damage": "3855"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "2",
+       "damage": "342"
+      }
+     ]
+    },
+    {
+     "location": "Haven",
+     "date": "09/21/20, 4:14 PM",
+     "duration": "27m 01s",
+     "team": "Team 1",
+     "player": "offbeatbubbles",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/omen_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/5.png",
+     "kda": "17 / 11 / 5",
+     "attackKills": "12",
+     "attackDeaths": "8",
+     "attackAssists": "2",
+     "attackKD": "1.5",
+     "attackDamage": "2153",
+     "defenseKills": "5",
+     "defenseDeaths": "3",
+     "defenseAssists": "3",
+     "defenseKD": "1.7",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "10",
+       "damage": "1394"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "4",
+       "damage": "540"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Sheriff",
+       "kills": "1",
+       "damage": "148"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "1",
+       "damage": "135"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "1",
+       "damage": "104"
+      }
+     ]
+    },
+    {
+     "location": "Haven",
+     "date": "09/21/20, 4:14 PM",
+     "duration": "27m 01s",
+     "team": "Team 1",
+     "player": "LemmeSeeDatPuss",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/viper_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/4.png",
+     "kda": "12 / 10 / 3",
+     "attackKills": "10",
+     "attackDeaths": "6",
+     "attackAssists": "1",
+     "attackKD": "1.7",
+     "attackDamage": "1941",
+     "defenseKills": "2",
+     "defenseDeaths": "4",
+     "defenseAssists": "2",
+     "defenseKD": "0.5",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "4",
+       "damage": "859"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "3",
+       "damage": "491"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Bulldog",
+       "kills": "2",
+       "damage": "332"
+      },
+      {
+       "type": "Sniper Rifles",
+       "name": "Operator",
+       "kills": "1",
+       "damage": "150"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Frenzy",
+       "kills": "1",
+       "damage": "136"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "1",
+       "damage": "134"
+      }
+     ]
+    },
+    {
+     "location": "Haven",
+     "date": "09/21/20, 4:14 PM",
+     "duration": "27m 01s",
+     "team": "Team 1",
+     "player": "soarin",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/jett_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/0.png",
+     "kda": "14 / 10 / 1",
+     "attackKills": "11",
+     "attackDeaths": "6",
+     "attackAssists": "0",
+     "attackKD": "1.8",
+     "attackDamage": "1608",
+     "defenseKills": "3",
+     "defenseDeaths": "4",
+     "defenseAssists": "1",
+     "defenseKD": "0.8",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "10",
+       "damage": "1731"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "3",
+       "damage": "408"
+      }
+     ]
+    },
+    {
+     "location": "Haven",
+     "date": "09/21/20, 4:14 PM",
+     "duration": "27m 01s",
+     "team": "Team 1",
+     "player": "RGElite23",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/brimstone_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/5.png",
+     "kda": "9 / 10 / 4",
+     "attackKills": "7",
+     "attackDeaths": "8",
+     "attackAssists": "3",
+     "attackKD": "0.9",
+     "attackDamage": "1340",
+     "defenseKills": "2",
+     "defenseDeaths": "2",
+     "defenseAssists": "1",
+     "defenseKD": "1.0",
+     "weapon": [
+      {
+       "type": "Heavy Weapons",
+       "name": "Odin",
+       "kills": "6",
+       "damage": "862"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "3",
+       "damage": "436"
+      }
+     ]
+    },
+    {
+     "location": "Haven",
+     "date": "09/21/20, 4:14 PM",
+     "duration": "27m 01s",
+     "team": "Team 2",
+     "player": "6969",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/phoenix_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/6.png",
+     "kda": "12 / 17 / 6",
+     "attackKills": "2",
+     "attackDeaths": "5",
+     "attackAssists": "3",
+     "attackKD": "0.4",
+     "attackDamage": "507",
+     "defenseKills": "10",
+     "defenseDeaths": "12",
+     "defenseAssists": "3",
+     "defenseKD": "0.8",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "5",
+       "damage": "1040"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Sheriff",
+       "kills": "5",
+       "damage": "894"
+      },
+      {
+       "type": "Sniper Rifles",
+       "name": "Marshal",
+       "kills": "1",
+       "damage": "153"
+      },
+      {
+       "type": "Shotguns",
+       "name": "Judge",
+       "kills": "1",
+       "damage": "0"
+      }
+     ]
+    },
+    {
+     "location": "Haven",
+     "date": "09/21/20, 4:14 PM",
+     "duration": "27m 01s",
+     "team": "Team 2",
+     "player": "Jackrobinn8144",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/cypher_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/3.png",
+     "kda": "12 / 13 / 1",
+     "attackKills": "2",
+     "attackDeaths": "4",
+     "attackAssists": "0",
+     "attackKD": "0.5",
+     "attackDamage": "480",
+     "defenseKills": "10",
+     "defenseDeaths": "9",
+     "defenseAssists": "1",
+     "defenseKD": "1.1",
+     "weapon": [
+      {
+       "type": "Heavy Weapons",
+       "name": "Odin",
+       "kills": "4",
+       "damage": "703"
+      },
+      {
+       "type": "Heavy Weapons",
+       "name": "Ares",
+       "kills": "3",
+       "damage": "462"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "3",
+       "damage": "337"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "1",
+       "damage": "156"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "1",
+       "damage": "144"
+      }
+     ]
+    },
+    {
+     "location": "Haven",
+     "date": "09/21/20, 4:14 PM",
+     "duration": "27m 01s",
+     "team": "Team 2",
+     "player": "LlamaVisionYT",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/reyna_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/5.png",
+     "kda": "14 / 13 / 0",
+     "attackKills": "9",
+     "attackDeaths": "4",
+     "attackAssists": "0",
+     "attackKD": "2.3",
+     "attackDamage": "2142",
+     "defenseKills": "6",
+     "defenseDeaths": "9",
+     "defenseAssists": "0",
+     "defenseKD": "0.7",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "4",
+       "damage": "770"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "4",
+       "damage": "738"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Shorty",
+       "kills": "3",
+       "damage": "320"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Sheriff",
+       "kills": "1",
+       "damage": "234"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "1",
+       "damage": "156"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "1",
+       "damage": "137"
+      }
+     ]
+    },
+    {
+     "location": "Haven",
+     "date": "09/21/20, 4:14 PM",
+     "duration": "27m 01s",
+     "team": "Team 2",
+     "player": "TheNameIsKeii",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/sage_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/6.png",
+     "kda": "8 / 14 / 2",
+     "attackKills": "4",
+     "attackDeaths": "4",
+     "attackAssists": "0",
+     "attackKD": "1.0",
+     "attackDamage": "291",
+     "defenseKills": "4",
+     "defenseDeaths": "10",
+     "defenseAssists": "2",
+     "defenseKD": "0.4",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "4",
+       "damage": "411"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "1",
+       "damage": "232"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "1",
+       "damage": "160"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "1",
+       "damage": "156"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Frenzy",
+       "kills": "1",
+       "damage": "104"
+      }
+     ]
+    },
+    {
+     "location": "Haven",
+     "date": "09/21/20, 4:14 PM",
+     "duration": "27m 01s",
+     "team": "Team 2",
+     "player": "champagnemami",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/viper_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/3.png",
+     "kda": "5 / 16 / 3",
+     "attackKills": "0",
+     "attackDeaths": "5",
+     "attackAssists": "1",
+     "attackKD": "0.0",
+     "attackDamage": "155",
+     "defenseKills": "5",
+     "defenseDeaths": "11",
+     "defenseAssists": "2",
+     "defenseKD": "0.5",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "3",
+       "damage": "634"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "1",
+       "damage": "156"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "1",
+       "damage": "104"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "player": [
+    {
+     "location": "Split",
+     "date": "09/20/20, 10:56 PM",
+     "duration": "42m 59s",
+     "team": "Team 1",
+     "player": "MahKat2744",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/reyna_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/6.png",
+     "kda": "20 / 20 / 3",
+     "attackKills": "9",
+     "attackDeaths": "9",
+     "attackAssists": "1",
+     "attackKD": "1.0",
+     "attackDamage": "1639",
+     "defenseKills": "11",
+     "defenseDeaths": "11",
+     "defenseAssists": "2",
+     "defenseKD": "1.0",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "6",
+       "damage": "1332"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "5",
+       "damage": "1034"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "4",
+       "damage": "797"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "2",
+       "damage": "326"
+      },
+      {
+       "type": "Sniper Rifles",
+       "name": "Operator",
+       "kills": "1",
+       "damage": "230"
+      },
+      {
+       "type": "SMGs",
+       "name": "Stinger",
+       "kills": "1",
+       "damage": "202"
+      },
+      {
+       "type": "Heavy Weapons",
+       "name": "Odin",
+       "kills": "1",
+       "damage": "179"
+      }
+     ]
+    },
+    {
+     "location": "Split",
+     "date": "09/20/20, 10:56 PM",
+     "duration": "42m 59s",
+     "team": "Team 1",
+     "player": "im tired",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/jett_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/10.png",
+     "kda": "17 / 20 / 7",
+     "attackKills": "10",
+     "attackDeaths": "11",
+     "attackAssists": "2",
+     "attackKD": "0.9",
+     "attackDamage": "1770",
+     "defenseKills": "7",
+     "defenseDeaths": "9",
+     "defenseAssists": "5",
+     "defenseKD": "0.8",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "11",
+       "damage": "1578"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "2",
+       "damage": "448"
+      },
+      {
+       "type": "Heavy Weapons",
+       "name": "Ares",
+       "kills": "2",
+       "damage": "342"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "2",
+       "damage": "208"
+      }
+     ]
+    },
+    {
+     "location": "Split",
+     "date": "09/20/20, 10:56 PM",
+     "duration": "42m 59s",
+     "team": "Team 1",
+     "player": "Hichthacker",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/sova_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/7.png",
+     "kda": "20 / 14 / 7",
+     "attackKills": "7",
+     "attackDeaths": "9",
+     "attackAssists": "3",
+     "attackKD": "0.8",
+     "attackDamage": "1242",
+     "defenseKills": "13",
+     "defenseDeaths": "5",
+     "defenseAssists": "4",
+     "defenseKD": "2.6",
+     "weapon": [
+      {
+       "type": "Sniper Rifles",
+       "name": "Operator",
+       "kills": "7",
+       "damage": "1416"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "4",
+       "damage": "730"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Frenzy",
+       "kills": "2",
+       "damage": "286"
+      },
+      {
+       "type": "SMGs",
+       "name": "Stinger",
+       "kills": "1",
+       "damage": "175"
+      },
+      {
+       "type": "Heavy Weapons",
+       "name": "Ares",
+       "kills": "1",
+       "damage": "164"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "1",
+       "damage": "162"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "1",
+       "damage": "156"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "1",
+       "damage": "155"
+      }
+     ]
+    },
+    {
+     "location": "Split",
+     "date": "09/20/20, 10:56 PM",
+     "duration": "42m 59s",
+     "team": "Team 1",
+     "player": "RGElite23",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/brimstone_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/5.png",
+     "kda": "17 / 16 / 4",
+     "attackKills": "10",
+     "attackDeaths": "8",
+     "attackAssists": "1",
+     "attackKD": "1.3",
+     "attackDamage": "1428",
+     "defenseKills": "7",
+     "defenseDeaths": "8",
+     "defenseAssists": "3",
+     "defenseKD": "0.9",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "9",
+       "damage": "1625"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "2",
+       "damage": "302"
+      },
+      {
+       "type": "Heavy Weapons",
+       "name": "Ares",
+       "kills": "1",
+       "damage": "192"
+      },
+      {
+       "type": "Heavy Weapons",
+       "name": "Odin",
+       "kills": "5",
+       "damage": "152"
+      }
+     ]
+    },
+    {
+     "location": "Split",
+     "date": "09/20/20, 10:56 PM",
+     "duration": "42m 59s",
+     "team": "Team 1",
+     "player": "shehroz303",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/omen_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/4.png",
+     "kda": "12 / 16 / 3",
+     "attackKills": "6",
+     "attackDeaths": "7",
+     "attackAssists": "2",
+     "attackKD": "0.9",
+     "attackDamage": "1397",
+     "defenseKills": "6",
+     "defenseDeaths": "9",
+     "defenseAssists": "1",
+     "defenseKD": "0.7",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "11",
+       "damage": "2423"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "1",
+       "damage": "295"
+      }
+     ]
+    },
+    {
+     "location": "Split",
+     "date": "09/20/20, 10:56 PM",
+     "duration": "42m 59s",
+     "team": "Team 2",
+     "player": "Wizzroz",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/phoenix_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/0.png",
+     "kda": "24 / 16 / 7",
+     "attackKills": "12",
+     "attackDeaths": "8",
+     "attackAssists": "1",
+     "attackKD": "1.5",
+     "attackDamage": "2229",
+     "defenseKills": "12",
+     "defenseDeaths": "8",
+     "defenseAssists": "6",
+     "defenseKD": "1.5",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "15",
+       "damage": "2970"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "6",
+       "damage": "904"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "1",
+       "damage": "160"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "1",
+       "damage": "115"
+      }
+     ]
+    },
+    {
+     "location": "Split",
+     "date": "09/20/20, 10:56 PM",
+     "duration": "42m 59s",
+     "team": "Team 2",
+     "player": "Toatsnotatrap",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/sage_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/7.png",
+     "kda": "18 / 17 / 7",
+     "attackKills": "11",
+     "attackDeaths": "9",
+     "attackAssists": "4",
+     "attackKD": "1.2",
+     "attackDamage": "3059",
+     "defenseKills": "8",
+     "defenseDeaths": "8",
+     "defenseAssists": "3",
+     "defenseKD": "1.0",
+     "weapon": [
+      {
+       "type": "Shotguns",
+       "name": "Bucky",
+       "kills": "4",
+       "damage": "608"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "3",
+       "damage": "526"
+      },
+      {
+       "type": "Heavy Weapons",
+       "name": "Odin",
+       "kills": "2",
+       "damage": "343"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "2",
+       "damage": "326"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "2",
+       "damage": "320"
+      },
+      {
+       "type": "SMGs",
+       "name": "Stinger",
+       "kills": "2",
+       "damage": "319"
+      },
+      {
+       "type": "Shotguns",
+       "name": "Judge",
+       "kills": "1",
+       "damage": "164"
+      },
+      {
+       "type": "Heavy Weapons",
+       "name": "Ares",
+       "kills": "1",
+       "damage": "150"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "1",
+       "damage": "112"
+      }
+     ]
+    },
+    {
+     "location": "Split",
+     "date": "09/20/20, 10:56 PM",
+     "duration": "42m 59s",
+     "team": "Team 2",
+     "player": "Naan",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/brimstone_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/7.png",
+     "kda": "17 / 18 / 5",
+     "attackKills": "8",
+     "attackDeaths": "9",
+     "attackAssists": "2",
+     "attackKD": "0.9",
+     "attackDamage": "1376",
+     "defenseKills": "9",
+     "defenseDeaths": "9",
+     "defenseAssists": "3",
+     "defenseKD": "1.0",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "5",
+       "damage": "998"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "6",
+       "damage": "976"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Frenzy",
+       "kills": "3",
+       "damage": "421"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "1",
+       "damage": "150"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "2",
+       "damage": "0"
+      }
+     ]
+    },
+    {
+     "location": "Split",
+     "date": "09/20/20, 10:56 PM",
+     "duration": "42m 59s",
+     "team": "Team 2",
+     "player": "NorthKoreanMeta",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/reyna_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/4.png",
+     "kda": "14 / 21 / 6",
+     "attackKills": "7",
+     "attackDeaths": "11",
+     "attackAssists": "2",
+     "attackKD": "0.6",
+     "attackDamage": "1420",
+     "defenseKills": "7",
+     "defenseDeaths": "10",
+     "defenseAssists": "4",
+     "defenseKD": "0.7",
+     "weapon": [
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "4",
+       "damage": "558"
+      },
+      {
+       "type": "Sniper Rifles",
+       "name": "Marshal",
+       "kills": "2",
+       "damage": "529"
+      },
+      {
+       "type": "Sniper Rifles",
+       "name": "Operator",
+       "kills": "2",
+       "damage": "405"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "2",
+       "damage": "360"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "2",
+       "damage": "204"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "1",
+       "damage": "183"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "1",
+       "damage": "172"
+      }
+     ]
+    },
+    {
+     "location": "Split",
+     "date": "09/20/20, 10:56 PM",
+     "duration": "42m 59s",
+     "team": "Team 2",
+     "player": "Rice",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/cypher_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/4.png",
+     "kda": "13 / 15 / 3",
+     "attackKills": "5",
+     "attackDeaths": "8",
+     "attackAssists": "2",
+     "attackKD": "0.6",
+     "attackDamage": "1095",
+     "defenseKills": "8",
+     "defenseDeaths": "7",
+     "defenseAssists": "1",
+     "defenseKD": "1.1",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "4",
+       "damage": "715"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "3",
+       "damage": "687"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "4",
+       "damage": "486"
+      },
+      {
+       "type": "Shotguns",
+       "name": "Judge",
+       "kills": "1",
+       "damage": "156"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Frenzy",
+       "kills": "1",
+       "damage": "152"
+      }
+     ]
+    }
+   ]
+  },
+  {
+  },
+  {
+  },
+  {
+   "player": [
+    {
+     "location": "Split",
+     "date": "09/20/20, 4:40 AM",
+     "duration": "39m 38s",
+     "team": "Team 1",
+     "player": "AlphaPanda",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/jett_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/6.png",
+     "kda": "27 / 13 / 1",
+     "attackKills": "15",
+     "attackDeaths": "6",
+     "attackAssists": "0",
+     "attackKD": "2.5",
+     "attackDamage": "2150",
+     "defenseKills": "12",
+     "defenseDeaths": "7",
+     "defenseAssists": "1",
+     "defenseKD": "1.7",
+     "weapon": [
+      {
+       "type": "Sniper Rifles",
+       "name": "Operator",
+       "kills": "17",
+       "damage": "2915"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "3",
+       "damage": "390"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "2",
+       "damage": "349"
+      }
+     ]
+    },
+    {
+     "location": "Split",
+     "date": "09/20/20, 4:40 AM",
+     "duration": "39m 38s",
+     "team": "Team 1",
+     "player": "4D17Y4",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/sage_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/4.png",
+     "kda": "20 / 15 / 11",
+     "attackKills": "11",
+     "attackDeaths": "9",
+     "attackAssists": "8",
+     "attackKD": "1.2",
+     "attackDamage": "2516",
+     "defenseKills": "9",
+     "defenseDeaths": "6",
+     "defenseAssists": "3",
+     "defenseKD": "1.5",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "18",
+       "damage": "2510"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "1",
+       "damage": "129"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "1",
+       "damage": "103"
+      }
+     ]
+    },
+    {
+     "location": "Split",
+     "date": "09/20/20, 4:40 AM",
+     "duration": "39m 38s",
+     "team": "Team 1",
+     "player": "Sushi3",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/reyna_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/6.png",
+     "kda": "20 / 17 / 6",
+     "attackKills": "15",
+     "attackDeaths": "9",
+     "attackAssists": "4",
+     "attackKD": "1.7",
+     "attackDamage": "2899",
+     "defenseKills": "5",
+     "defenseDeaths": "8",
+     "defenseAssists": "2",
+     "defenseKD": "0.6",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "14",
+       "damage": "2549"
+      },
+      {
+       "type": "Shotguns",
+       "name": "Judge",
+       "kills": "3",
+       "damage": "493"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "2",
+       "damage": "265"
+      },
+      {
+       "type": "Heavy Weapons",
+       "name": "Ares",
+       "kills": "1",
+       "damage": "172"
+      }
+     ]
+    },
+    {
+     "location": "Split",
+     "date": "09/20/20, 4:40 AM",
+     "duration": "39m 38s",
+     "team": "Team 1",
+     "player": "GoldRain",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/phoenix_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/6.png",
+     "kda": "18 / 12 / 3",
+     "attackKills": "11",
+     "attackDeaths": "7",
+     "attackAssists": "2",
+     "attackKD": "1.6",
+     "attackDamage": "1973",
+     "defenseKills": "7",
+     "defenseDeaths": "5",
+     "defenseAssists": "1",
+     "defenseKD": "1.4",
+     "weapon": [
+      {
+       "type": "Sniper Rifles",
+       "name": "Operator",
+       "kills": "8",
+       "damage": "1518"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "5",
+       "damage": "1117"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "4",
+       "damage": "505"
+      },
+      {
+       "type": "Heavy Weapons",
+       "name": "Ares",
+       "kills": "1",
+       "damage": "132"
+      }
+     ]
+    },
+    {
+     "location": "Split",
+     "date": "09/20/20, 4:40 AM",
+     "duration": "39m 38s",
+     "team": "Team 1",
+     "player": "Toolie",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/raze_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/3.png",
+     "kda": "8 / 12 / 1",
+     "attackKills": "5",
+     "attackDeaths": "5",
+     "attackAssists": "1",
+     "attackKD": "1.0",
+     "attackDamage": "1779",
+     "defenseKills": "4",
+     "defenseDeaths": "7",
+     "defenseAssists": "0",
+     "defenseKD": "0.6",
+     "weapon": [
+      {
+       "type": "Sniper Rifles",
+       "name": "Operator",
+       "kills": "2",
+       "damage": "378"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "2",
+       "damage": "264"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "1",
+       "damage": "149"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "1",
+       "damage": "120"
+      }
+     ]
+    },
+    {
+     "location": "Split",
+     "date": "09/20/20, 4:40 AM",
+     "duration": "39m 38s",
+     "team": "Team 2",
+     "player": "Hichthacker",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/jett_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/7.png",
+     "kda": "21 / 17 / 1",
+     "attackKills": "8",
+     "attackDeaths": "6",
+     "attackAssists": "0",
+     "attackKD": "1.3",
+     "attackDamage": "1195",
+     "defenseKills": "13",
+     "defenseDeaths": "11",
+     "defenseAssists": "1",
+     "defenseKD": "1.2",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "8",
+       "damage": "1548"
+      },
+      {
+       "type": "Sniper Rifles",
+       "name": "Operator",
+       "kills": "5",
+       "damage": "826"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "4",
+       "damage": "749"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "2",
+       "damage": "339"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "2",
+       "damage": "289"
+      }
+     ]
+    },
+    {
+     "location": "Split",
+     "date": "09/20/20, 4:40 AM",
+     "duration": "39m 38s",
+     "team": "Team 2",
+     "player": "RGElite23",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/reyna_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/6.png",
+     "kda": "17 / 19 / 6",
+     "attackKills": "8",
+     "attackDeaths": "8",
+     "attackAssists": "2",
+     "attackKD": "1.0",
+     "attackDamage": "1274",
+     "defenseKills": "9",
+     "defenseDeaths": "11",
+     "defenseAssists": "4",
+     "defenseKD": "0.8",
+     "weapon": [
+      {
+       "type": "Heavy Weapons",
+       "name": "Ares",
+       "kills": "5",
+       "damage": "843"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "4",
+       "damage": "784"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "5",
+       "damage": "663"
+      },
+      {
+       "type": "Heavy Weapons",
+       "name": "Odin",
+       "kills": "2",
+       "damage": "323"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "1",
+       "damage": "156"
+      }
+     ]
+    },
+    {
+     "location": "Split",
+     "date": "09/20/20, 4:40 AM",
+     "duration": "39m 38s",
+     "team": "Team 2",
+     "player": "MahKat2744",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/phoenix_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/6.png",
+     "kda": "17 / 16 / 4",
+     "attackKills": "7",
+     "attackDeaths": "6",
+     "attackAssists": "2",
+     "attackKD": "1.2",
+     "attackDamage": "1073",
+     "defenseKills": "10",
+     "defenseDeaths": "10",
+     "defenseAssists": "2",
+     "defenseKD": "1.0",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "6",
+       "damage": "1017"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "4",
+       "damage": "814"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "4",
+       "damage": "519"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "2",
+       "damage": "225"
+      },
+      {
+       "type": "Heavy Weapons",
+       "name": "Ares",
+       "kills": "1",
+       "damage": "150"
+      }
+     ]
+    },
+    {
+     "location": "Split",
+     "date": "09/20/20, 4:40 AM",
+     "duration": "39m 38s",
+     "team": "Team 2",
+     "player": "YellowYenno",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/raze_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/3.png",
+     "kda": "9 / 20 / 3",
+     "attackKills": "8",
+     "attackDeaths": "8",
+     "attackAssists": "2",
+     "attackKD": "1.0",
+     "attackDamage": "1472",
+     "defenseKills": "1",
+     "defenseDeaths": "12",
+     "defenseAssists": "1",
+     "defenseKD": "0.1",
+     "weapon": [
+      {
+       "type": "Heavy Weapons",
+       "name": "Ares",
+       "kills": "1",
+       "damage": "174"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "1",
+       "damage": "100"
+      }
+     ]
+    },
+    {
+     "location": "Split",
+     "date": "09/20/20, 4:40 AM",
+     "duration": "39m 38s",
+     "team": "Team 2",
+     "player": "Riptide69420",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/omen_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/5.png",
+     "kda": "4 / 21 / 2",
+     "attackKills": "2",
+     "attackDeaths": "9",
+     "attackAssists": "1",
+     "attackKD": "0.2",
+     "attackDamage": "313",
+     "defenseKills": "2",
+     "defenseDeaths": "12",
+     "defenseAssists": "1",
+     "defenseKD": "0.2",
+     "weapon": [
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "2",
+       "damage": "312"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "1",
+       "damage": "156"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "1",
+       "damage": "0"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "player": [
+    {
+     "location": "Ascent",
+     "date": "09/18/20, 5:31 PM",
+     "duration": "33m 09s",
+     "team": "Team 1",
+     "player": "madison",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/cypher_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/8.png",
+     "kda": "22 / 10 / 1",
+     "attackKills": "12",
+     "attackDeaths": "2",
+     "attackAssists": "0",
+     "attackKD": "6.0",
+     "attackDamage": "1128",
+     "defenseKills": "10",
+     "defenseDeaths": "8",
+     "defenseAssists": "1",
+     "defenseKD": "1.3",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "15",
+       "damage": "2186"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "2",
+       "damage": "371"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "3",
+       "damage": "365"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "1",
+       "damage": "177"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Bulldog",
+       "kills": "1",
+       "damage": "159"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/18/20, 5:31 PM",
+     "duration": "33m 09s",
+     "team": "Team 1",
+     "player": "Twitch YoZotix",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/omen_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/5.png",
+     "kda": "18 / 16 / 1",
+     "attackKills": "11",
+     "attackDeaths": "6",
+     "attackAssists": "0",
+     "attackKD": "1.8",
+     "attackDamage": "1467",
+     "defenseKills": "7",
+     "defenseDeaths": "10",
+     "defenseAssists": "1",
+     "defenseKD": "0.7",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "12",
+       "damage": "2118"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "3",
+       "damage": "363"
+      },
+      {
+       "type": "Sniper Rifles",
+       "name": "Operator",
+       "kills": "3",
+       "damage": "334"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/18/20, 5:31 PM",
+     "duration": "33m 09s",
+     "team": "Team 1",
+     "player": "ItsRatty",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/sova_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/6.png",
+     "kda": "12 / 15 / 4",
+     "attackKills": "4",
+     "attackDeaths": "5",
+     "attackAssists": "2",
+     "attackKD": "0.8",
+     "attackDamage": "874",
+     "defenseKills": "8",
+     "defenseDeaths": "10",
+     "defenseAssists": "2",
+     "defenseKD": "0.8",
+     "weapon": [
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "3",
+       "damage": "421"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "2",
+       "damage": "394"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "3",
+       "damage": "379"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "2",
+       "damage": "258"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "1",
+       "damage": "150"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/18/20, 5:31 PM",
+     "duration": "33m 09s",
+     "team": "Team 1",
+     "player": "2319",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/reyna_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/0.png",
+     "kda": "11 / 14 / 1",
+     "attackKills": "2",
+     "attackDeaths": "6",
+     "attackAssists": "0",
+     "attackKD": "0.3",
+     "attackDamage": "480",
+     "defenseKills": "9",
+     "defenseDeaths": "8",
+     "defenseAssists": "1",
+     "defenseKD": "1.1",
+     "weapon": [
+      {
+       "type": "Sniper Rifles",
+       "name": "Operator",
+       "kills": "6",
+       "damage": "900"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "3",
+       "damage": "513"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "1",
+       "damage": "210"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "1",
+       "damage": "208"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/18/20, 5:31 PM",
+     "duration": "33m 09s",
+     "team": "Team 1",
+     "player": "ForgotMyIQ",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/raze_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/6.png",
+     "kda": "7 / 16 / 5",
+     "attackKills": "4",
+     "attackDeaths": "5",
+     "attackAssists": "4",
+     "attackKD": "0.8",
+     "attackDamage": "781",
+     "defenseKills": "3",
+     "defenseDeaths": "11",
+     "defenseAssists": "1",
+     "defenseKD": "0.3",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "2",
+       "damage": "456"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "2",
+       "damage": "323"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "1",
+       "damage": "167"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "1",
+       "damage": "160"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/18/20, 5:31 PM",
+     "duration": "33m 09s",
+     "team": "Team 2",
+     "player": "im tired",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/jett_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/10.png",
+     "kda": "20 / 15 / 3",
+     "attackKills": "16",
+     "attackDeaths": "7",
+     "attackAssists": "1",
+     "attackKD": "2.3",
+     "attackDamage": "3011",
+     "defenseKills": "4",
+     "defenseDeaths": "8",
+     "defenseAssists": "2",
+     "defenseKD": "0.5",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "10",
+       "damage": "1925"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "3",
+       "damage": "356"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Bulldog",
+       "kills": "2",
+       "damage": "290"
+      },
+      {
+       "type": "Sniper Rifles",
+       "name": "Marshal",
+       "kills": "1",
+       "damage": "202"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "1",
+       "damage": "162"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "1",
+       "damage": "100"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/18/20, 5:31 PM",
+     "duration": "33m 09s",
+     "team": "Team 2",
+     "player": "MahKat2744",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/reyna_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/6.png",
+     "kda": "20 / 16 / 3",
+     "attackKills": "12",
+     "attackDeaths": "8",
+     "attackAssists": "3",
+     "attackKD": "1.5",
+     "attackDamage": "1753",
+     "defenseKills": "8",
+     "defenseDeaths": "8",
+     "defenseAssists": "0",
+     "defenseKD": "1.0",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "15",
+       "damage": "2230"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "2",
+       "damage": "328"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "2",
+       "damage": "254"
+      },
+      {
+       "type": "Sniper Rifles",
+       "name": "Operator",
+       "kills": "1",
+       "damage": "150"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/18/20, 5:31 PM",
+     "duration": "33m 09s",
+     "team": "Team 2",
+     "player": "shehroz303",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/omen_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/4.png",
+     "kda": "16 / 15 / 5",
+     "attackKills": "9",
+     "attackDeaths": "7",
+     "attackAssists": "2",
+     "attackKD": "1.3",
+     "attackDamage": "1274",
+     "defenseKills": "7",
+     "defenseDeaths": "8",
+     "defenseAssists": "3",
+     "defenseKD": "0.9",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "12",
+       "damage": "1775"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "2",
+       "damage": "264"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Bulldog",
+       "kills": "1",
+       "damage": "165"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "1",
+       "damage": "156"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/18/20, 5:31 PM",
+     "duration": "33m 09s",
+     "team": "Team 2",
+     "player": "RGElite23",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/brimstone_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/6.png",
+     "kda": "10 / 15 / 4",
+     "attackKills": "5",
+     "attackDeaths": "7",
+     "attackAssists": "2",
+     "attackKD": "0.7",
+     "attackDamage": "1133",
+     "defenseKills": "5",
+     "defenseDeaths": "8",
+     "defenseAssists": "2",
+     "defenseKD": "0.6",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "6",
+       "damage": "971"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "2",
+       "damage": "394"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "1",
+       "damage": "141"
+      },
+      {
+       "type": "Heavy Weapons",
+       "name": "Odin",
+       "kills": "1",
+       "damage": "0"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/18/20, 5:31 PM",
+     "duration": "33m 09s",
+     "team": "Team 2",
+     "player": "THEOTHERSIDE",
+     "agent": "https://titles.trackercdn.com/valorant-pak/media/03b769d630ea38cf542e3424ad0384efd0c21601.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/9.png",
+     "kda": "5 / 9 / 5",
+     "attackKills": "5",
+     "attackDeaths": "8",
+     "attackAssists": "5",
+     "attackKD": "0.6",
+     "attackDamage": "1292",
+     "defenseKills": "0",
+     "defenseDeaths": "1",
+     "defenseAssists": "0",
+     "defenseKD": "0.0",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "2",
+       "damage": "325"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "1",
+       "damage": "130"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "player": [
+    {
+     "location": "Ascent",
+     "date": "09/17/20, 4:44 PM",
+     "duration": "38m 59s",
+     "team": "Team 1",
+     "player": "Crimxzon",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/reyna_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/7.png",
+     "kda": "24 / 15 / 4",
+     "attackKills": "8",
+     "attackDeaths": "9",
+     "attackAssists": "1",
+     "attackKD": "0.9",
+     "attackDamage": "1629",
+     "defenseKills": "16",
+     "defenseDeaths": "6",
+     "defenseAssists": "3",
+     "defenseKD": "2.7",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "16",
+       "damage": "2659"
+      },
+      {
+       "type": "Sniper Rifles",
+       "name": "Operator",
+       "kills": "2",
+       "damage": "300"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "3",
+       "damage": "291"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "2",
+       "damage": "270"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "1",
+       "damage": "140"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/17/20, 4:44 PM",
+     "duration": "38m 59s",
+     "team": "Team 1",
+     "player": "KAWAII GIRL 420",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/raze_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/6.png",
+     "kda": "22 / 12 / 5",
+     "attackKills": "10",
+     "attackDeaths": "8",
+     "attackAssists": "3",
+     "attackKD": "1.3",
+     "attackDamage": "2109",
+     "defenseKills": "12",
+     "defenseDeaths": "4",
+     "defenseAssists": "2",
+     "defenseKD": "3.0",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "8",
+       "damage": "1544"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "6",
+       "damage": "989"
+      },
+      {
+       "type": "Heavy Weapons",
+       "name": "Odin",
+       "kills": "1",
+       "damage": "165"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "1",
+       "damage": "159"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "1",
+       "damage": "104"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "1",
+       "damage": "104"
+      },
+      {
+       "type": "Sniper Rifles",
+       "name": "Operator",
+       "kills": "1",
+       "damage": "0"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/17/20, 4:44 PM",
+     "duration": "38m 59s",
+     "team": "Team 1",
+     "player": "ROLL INN",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/breach_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/7.png",
+     "kda": "16 / 17 / 2",
+     "attackKills": "11",
+     "attackDeaths": "9",
+     "attackAssists": "1",
+     "attackKD": "1.2",
+     "attackDamage": "1925",
+     "defenseKills": "5",
+     "defenseDeaths": "8",
+     "defenseAssists": "1",
+     "defenseKD": "0.6",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "8",
+       "damage": "1277"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "4",
+       "damage": "366"
+      },
+      {
+       "type": "SMGs",
+       "name": "Stinger",
+       "kills": "2",
+       "damage": "260"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "1",
+       "damage": "230"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "1",
+       "damage": "169"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/17/20, 4:44 PM",
+     "duration": "38m 59s",
+     "team": "Team 1",
+     "player": "Bigyellowfever",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/brimstone_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/5.png",
+     "kda": "13 / 14 / 8",
+     "attackKills": "10",
+     "attackDeaths": "7",
+     "attackAssists": "4",
+     "attackKD": "1.4",
+     "attackDamage": "1484",
+     "defenseKills": "3",
+     "defenseDeaths": "7",
+     "defenseAssists": "4",
+     "defenseKD": "0.4",
+     "weapon": [
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "4",
+       "damage": "653"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "3",
+       "damage": "597"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "4",
+       "damage": "494"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Guardian",
+       "kills": "1",
+       "damage": "178"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "1",
+       "damage": "160"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/17/20, 4:44 PM",
+     "duration": "38m 59s",
+     "team": "Team 1",
+     "player": "S4rsys",
+     "agent": "https://titles.trackercdn.com/valorant-pak/media/03b769d630ea38cf542e3424ad0384efd0c21601.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/6.png",
+     "kda": "12 / 18 / 2",
+     "attackKills": "4",
+     "attackDeaths": "8",
+     "attackAssists": "2",
+     "attackKD": "0.5",
+     "attackDamage": "1105",
+     "defenseKills": "8",
+     "defenseDeaths": "10",
+     "defenseAssists": "0",
+     "defenseKD": "0.8",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "4",
+       "damage": "856"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "4",
+       "damage": "607"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "1",
+       "damage": "160"
+      },
+      {
+       "type": "Sniper Rifles",
+       "name": "Operator",
+       "kills": "1",
+       "damage": "150"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "1",
+       "damage": "127"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Sheriff",
+       "kills": "1",
+       "damage": "0"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/17/20, 4:44 PM",
+     "duration": "38m 59s",
+     "team": "Team 2",
+     "player": "im tired",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/omen_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/10.png",
+     "kda": "25 / 17 / 3",
+     "attackKills": "8",
+     "attackDeaths": "9",
+     "attackAssists": "2",
+     "attackKD": "0.9",
+     "attackDamage": "1331",
+     "defenseKills": "17",
+     "defenseDeaths": "8",
+     "defenseAssists": "1",
+     "defenseKD": "2.1",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "18",
+       "damage": "3705"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "2",
+       "damage": "297"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "2",
+       "damage": "230"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "2",
+       "damage": "229"
+      },
+      {
+       "type": "Sniper Rifles",
+       "name": "Marshal",
+       "kills": "1",
+       "damage": "202"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/17/20, 4:44 PM",
+     "duration": "38m 59s",
+     "team": "Team 2",
+     "player": "Hichthacker",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/jett_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/7.png",
+     "kda": "20 / 19 / 4",
+     "attackKills": "12",
+     "attackDeaths": "9",
+     "attackAssists": "0",
+     "attackKD": "1.3",
+     "attackDamage": "1949",
+     "defenseKills": "8",
+     "defenseDeaths": "10",
+     "defenseAssists": "4",
+     "defenseKD": "0.8",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "8",
+       "damage": "1289"
+      },
+      {
+       "type": "Sniper Rifles",
+       "name": "Operator",
+       "kills": "6",
+       "damage": "1190"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "2",
+       "damage": "485"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "2",
+       "damage": "286"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "2",
+       "damage": "225"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/17/20, 4:44 PM",
+     "duration": "38m 59s",
+     "team": "Team 2",
+     "player": "RGElite23",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/brimstone_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/6.png",
+     "kda": "14 / 16 / 4",
+     "attackKills": "8",
+     "attackDeaths": "8",
+     "attackAssists": "3",
+     "attackKD": "1.0",
+     "attackDamage": "1537",
+     "defenseKills": "6",
+     "defenseDeaths": "8",
+     "defenseAssists": "1",
+     "defenseKD": "0.8",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "8",
+       "damage": "1176"
+      },
+      {
+       "type": "Heavy Weapons",
+       "name": "Odin",
+       "kills": "2",
+       "damage": "331"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "2",
+       "damage": "318"
+      },
+      {
+       "type": "Heavy Weapons",
+       "name": "Ares",
+       "kills": "1",
+       "damage": "162"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "1",
+       "damage": "134"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/17/20, 4:44 PM",
+     "duration": "38m 59s",
+     "team": "Team 2",
+     "player": "MahKat2744",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/cypher_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/7.png",
+     "kda": "9 / 18 / 8",
+     "attackKills": "2",
+     "attackDeaths": "10",
+     "attackAssists": "5",
+     "attackKD": "0.2",
+     "attackDamage": "563",
+     "defenseKills": "7",
+     "defenseDeaths": "8",
+     "defenseAssists": "3",
+     "defenseKD": "0.9",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "7",
+       "damage": "1390"
+      },
+      {
+       "type": "Shotguns",
+       "name": "Bucky",
+       "kills": "1",
+       "damage": "184"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "1",
+       "damage": "157"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/17/20, 4:44 PM",
+     "duration": "38m 59s",
+     "team": "Team 2",
+     "player": "shehroz303",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/reyna_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/4.png",
+     "kda": "8 / 17 / 2",
+     "attackKills": "5",
+     "attackDeaths": "8",
+     "attackAssists": "0",
+     "attackKD": "0.6",
+     "attackDamage": "945",
+     "defenseKills": "3",
+     "defenseDeaths": "9",
+     "defenseAssists": "2",
+     "defenseKD": "0.3",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "8",
+       "damage": "1326"
+      }
+     ]
+    }
+   ]
+  },
+  {
+  },
+  {
+   "player": [
+    {
+     "location": "Ascent",
+     "date": "09/15/20, 4:44 PM",
+     "duration": "41m 25s",
+     "team": "Team 1",
+     "player": "shurtugal016",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/reyna_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/10.png",
+     "kda": "29 / 17 / 6",
+     "attackKills": "9",
+     "attackDeaths": "9",
+     "attackAssists": "3",
+     "attackKD": "1.0",
+     "attackDamage": "1347",
+     "defenseKills": "21",
+     "defenseDeaths": "8",
+     "defenseAssists": "3",
+     "defenseKD": "2.6",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "20",
+       "damage": "3287"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "4",
+       "damage": "615"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "3",
+       "damage": "612"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Bulldog",
+       "kills": "2",
+       "damage": "0"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/15/20, 4:44 PM",
+     "duration": "41m 25s",
+     "team": "Team 1",
+     "player": "Nemo",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/omen_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/5.png",
+     "kda": "21 / 16 / 3",
+     "attackKills": "14",
+     "attackDeaths": "6",
+     "attackAssists": "1",
+     "attackKD": "2.3",
+     "attackDamage": "1907",
+     "defenseKills": "7",
+     "defenseDeaths": "10",
+     "defenseAssists": "2",
+     "defenseKD": "0.7",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "15",
+       "damage": "2908"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "4",
+       "damage": "605"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "2",
+       "damage": "312"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/15/20, 4:44 PM",
+     "duration": "41m 25s",
+     "team": "Team 1",
+     "player": "ImmoralPope",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/sova_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/9.png",
+     "kda": "16 / 18 / 4",
+     "attackKills": "10",
+     "attackDeaths": "9",
+     "attackAssists": "4",
+     "attackKD": "1.1",
+     "attackDamage": "1793",
+     "defenseKills": "6",
+     "defenseDeaths": "9",
+     "defenseAssists": "0",
+     "defenseKD": "0.7",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "7",
+       "damage": "1269"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "5",
+       "damage": "992"
+      },
+      {
+       "type": "SMGs",
+       "name": "Stinger",
+       "kills": "3",
+       "damage": "468"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "1",
+       "damage": "105"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/15/20, 4:44 PM",
+     "duration": "41m 25s",
+     "team": "Team 1",
+     "player": "JALEJ4LYFE",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/jett_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/8.png",
+     "kda": "13 / 16 / 9",
+     "attackKills": "9",
+     "attackDeaths": "7",
+     "attackAssists": "6",
+     "attackKD": "1.3",
+     "attackDamage": "1954",
+     "defenseKills": "4",
+     "defenseDeaths": "9",
+     "defenseAssists": "3",
+     "defenseKD": "0.4",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "6",
+       "damage": "1124"
+      },
+      {
+       "type": "Sniper Rifles",
+       "name": "Operator",
+       "kills": "3",
+       "damage": "640"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Bulldog",
+       "kills": "1",
+       "damage": "231"
+      },
+      {
+       "type": "Sniper Rifles",
+       "name": "Marshal",
+       "kills": "1",
+       "damage": "202"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "1",
+       "damage": "120"
+      },
+      {
+       "type": "SMGs",
+       "name": "Stinger",
+       "kills": "1",
+       "damage": "0"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/15/20, 4:44 PM",
+     "duration": "41m 25s",
+     "team": "Team 1",
+     "player": "ndoozer",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/breach_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/6.png",
+     "kda": "11 / 20 / 7",
+     "attackKills": "8",
+     "attackDeaths": "10",
+     "attackAssists": "6",
+     "attackKD": "0.8",
+     "attackDamage": "1688",
+     "defenseKills": "3",
+     "defenseDeaths": "10",
+     "defenseAssists": "1",
+     "defenseKD": "0.3",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Bulldog",
+       "kills": "6",
+       "damage": "1092"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "4",
+       "damage": "754"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "1",
+       "damage": "105"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/15/20, 4:44 PM",
+     "duration": "41m 25s",
+     "team": "Team 2",
+     "player": "Volayethor",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/phoenix_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/9.png",
+     "kda": "26 / 18 / 3",
+     "attackKills": "13",
+     "attackDeaths": "8",
+     "attackAssists": "2",
+     "attackKD": "1.6",
+     "attackDamage": "2345",
+     "defenseKills": "13",
+     "defenseDeaths": "10",
+     "defenseAssists": "1",
+     "defenseKD": "1.3",
+     "weapon": [
+      {
+       "type": "Sniper Rifles",
+       "name": "Operator",
+       "kills": "10",
+       "damage": "1697"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "9",
+       "damage": "1219"
+      },
+      {
+       "type": "SMGs",
+       "name": "Stinger",
+       "kills": "2",
+       "damage": "378"
+      },
+      {
+       "type": "Heavy Weapons",
+       "name": "Ares",
+       "kills": "2",
+       "damage": "351"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "1",
+       "damage": "165"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Bulldog",
+       "kills": "1",
+       "damage": "119"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "1",
+       "damage": "104"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/15/20, 4:44 PM",
+     "duration": "41m 25s",
+     "team": "Team 2",
+     "player": "Bork",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/sova_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/7.png",
+     "kda": "24 / 17 / 8",
+     "attackKills": "10",
+     "attackDeaths": "8",
+     "attackAssists": "8",
+     "attackKD": "1.3",
+     "attackDamage": "2226",
+     "defenseKills": "14",
+     "defenseDeaths": "9",
+     "defenseAssists": "0",
+     "defenseKD": "1.6",
+     "weapon": [
+      {
+       "type": "Heavy Weapons",
+       "name": "Odin",
+       "kills": "16",
+       "damage": "2847"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Sheriff",
+       "kills": "4",
+       "damage": "582"
+      },
+      {
+       "type": "Heavy Weapons",
+       "name": "Ares",
+       "kills": "3",
+       "damage": "542"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/15/20, 4:44 PM",
+     "duration": "41m 25s",
+     "team": "Team 2",
+     "player": "xXCM10Xx",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/sage_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/8.png",
+     "kda": "16 / 17 / 9",
+     "attackKills": "10",
+     "attackDeaths": "8",
+     "attackAssists": "2",
+     "attackKD": "1.3",
+     "attackDamage": "1720",
+     "defenseKills": "6",
+     "defenseDeaths": "9",
+     "defenseAssists": "7",
+     "defenseKD": "0.7",
+     "weapon": [
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "6",
+       "damage": "782"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Guardian",
+       "kills": "3",
+       "damage": "714"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "3",
+       "damage": "635"
+      },
+      {
+       "type": "Sniper Rifles",
+       "name": "Operator",
+       "kills": "2",
+       "damage": "300"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "1",
+       "damage": "224"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "1",
+       "damage": "158"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/15/20, 4:44 PM",
+     "duration": "41m 25s",
+     "team": "Team 2",
+     "player": "Squidjit",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/brimstone_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/10.png",
+     "kda": "14 / 19 / 3",
+     "attackKills": "8",
+     "attackDeaths": "8",
+     "attackAssists": "1",
+     "attackKD": "1.0",
+     "attackDamage": "1214",
+     "defenseKills": "7",
+     "defenseDeaths": "11",
+     "defenseAssists": "2",
+     "defenseKD": "0.6",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "7",
+       "damage": "1202"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Bulldog",
+       "kills": "1",
+       "damage": "172"
+      },
+      {
+       "type": "SMGs",
+       "name": "Spectre",
+       "kills": "1",
+       "damage": "156"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "1",
+       "damage": "156"
+      },
+      {
+       "type": "Shotguns",
+       "name": "Bucky",
+       "kills": "1",
+       "damage": "151"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Classic",
+       "kills": "1",
+       "damage": "106"
+      }
+     ]
+    },
+    {
+     "location": "Ascent",
+     "date": "09/15/20, 4:44 PM",
+     "duration": "41m 25s",
+     "team": "Team 2",
+     "player": "RGElite23",
+     "agent": "https://trackercdn.com/cdn/tracker.gg/valorant/db/agents/reyna_thumb.png",
+     "tier": "https://trackercdn.com/cdn/tracker.gg/valorant/icons/tiers/6.png",
+     "kda": "6 / 20 / 3",
+     "attackKills": "4",
+     "attackDeaths": "8",
+     "attackAssists": "2",
+     "attackKD": "0.5",
+     "attackDamage": "1036",
+     "defenseKills": "2",
+     "defenseDeaths": "12",
+     "defenseAssists": "1",
+     "defenseKD": "0.2",
+     "weapon": [
+      {
+       "type": "Assault Rifles",
+       "name": "Phantom",
+       "kills": "2",
+       "damage": "316"
+      },
+      {
+       "type": "Heavy Weapons",
+       "name": "Odin",
+       "kills": "2",
+       "damage": "303"
+      },
+      {
+       "type": "Assault Rifles",
+       "name": "Vandal",
+       "kills": "1",
+       "damage": "188"
+      },
+      {
+       "type": "Sidearms",
+       "name": "Ghost",
+       "kills": "1",
+       "damage": "115"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
